@@ -1,0 +1,602 @@
+[
+  {
+    "description": "You gain a +1 bonus to your next Agility Roll.",
+    "name": "Stride Potion",
+    "roll": "01"
+  },
+  {
+    "description": "You gain a +1 bonus to your next Strength Roll.",
+    "name": "Bolster Potion",
+    "roll": "02"
+  },
+  {
+    "description": "You gain a +1 bonus to your next Finesse Roll.",
+    "name": "Control Potion",
+    "roll": "03"
+  },
+  {
+    "description": "You gain a +1 bonus to your next Instinct Roll.",
+    "name": "Attune Potion",
+    "roll": "04"
+  },
+  {
+    "description": "You gain a +1 bonus to your next Presence Roll.",
+    "name": "Charm Potion",
+    "roll": "05"
+  },
+  {
+    "description": "You gain a +1 bonus to your next Knowledge Roll.",
+    "name": "Enlighten Potion",
+    "roll": "06"
+  },
+  {
+    "description": "**Potion** Clear 1d4 HP.",
+    "name": "Minor Health Potion",
+    "roll": "07"
+  },
+  {
+    "description": "**Potion** Clear 1d4 Stress.",
+    "name": "Minor Stamina Potion",
+    "roll": "08"
+  },
+  {
+    "description": "**Venom** You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon.",
+    "name": "Grindletooth Venom",
+    "roll": "09"
+  },
+  {
+    "description": "You can eat these paired leaves to immediately gain 2 Hope.",
+    "name": "Varik Leaves",
+    "roll": "10"
+  },
+  {
+    "description": "When you drink the contents of this vial, you can see in total darkness until your next rest.",
+    "name": "Vial of Moondrip",
+    "roll": "11"
+  },
+  {
+    "description": "**Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage.",
+    "name": "Unstable Arcane Shard",
+    "roll": "12"
+  },
+  {
+    "description": "**Stability** You can drink this potion to choose one additional downtime move.",
+    "name": "Potion of Stability",
+    "roll": "13"
+  },
+  {
+    "description": "**Grindletooth** **Venom** You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.",
+    "name": "Improved Grindletooth Venom",
+    "roll": "14"
+  },
+  {
+    "description": "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest.",
+    "name": "Morphing Clay",
+    "roll": "15"
+  },
+  {
+    "description": "**Darksmoke** When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack.",
+    "name": "Vial of Darksmoke",
+    "roll": "16"
+  },
+  {
+    "description": "Eat this root to leap up to Far range once without needing to roll.",
+    "name": "Jumping Root",
+    "roll": "17"
+  },
+  {
+    "description": "Mark a Stress and clear a HP.",
+    "name": "Snap Powder",
+    "roll": "18"
+  },
+  {
+    "description": "Clear 1d4+1 HP.",
+    "name": "Health Potion",
+    "roll": "19"
+  },
+  {
+    "description": "Clear 1d4+1 Stress.",
+    "name": "Stamina Potion",
+    "roll": "20"
+  },
+  {
+    "description": "You can use this stitcher to spend any number of Hope and clear that many Armor Slots.",
+    "name": "Armor Stitcher",
+    "roll": "21"
+  },
+  {
+    "description": "You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.",
+    "name": "Gill Salve",
+    "roll": "22"
+  },
+  {
+    "description": "**Parchment** By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper.",
+    "name": "Replication Parchment",
+    "roll": "23"
+  },
+  {
+    "description": "**Arcane Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.",
+    "name": "Improved Arcane Shard",
+    "roll": "24"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Agility until your next rest.",
+    "name": "Major Stride Potion",
+    "roll": "25"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Strength until your next rest.",
+    "name": "Major Bolster Potion",
+    "roll": "26"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Finesse until your next rest.",
+    "name": "Major Control Potion",
+    "roll": "27"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Instinct until your next rest.",
+    "name": "Major Attune Potion",
+    "roll": "28"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Presence until your next rest.",
+    "name": "Major Charm Potion",
+    "roll": "29"
+  },
+  {
+    "description": "**Potion** You gain a +1 bonus to your Knowledge until your next rest.",
+    "name": "Major Enlighten Potion",
+    "roll": "30"
+  },
+  {
+    "description": "**Yorgi** You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range.",
+    "name": "Blood of the Yorgi",
+    "roll": "31"
+  },
+  {
+    "description": "**Potion** After drinking this potion, the next successful attack you make critically succeeds.",
+    "name": "Homet’s Secret Potion",
+    "roll": "32"
+  },
+  {
+    "description": "You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon.",
+    "name": "Redthorn Saliva",
+    "roll": "33"
+  },
+  {
+    "description": "You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault.",
+    "name": "Channelstone",
+    "roll": "34"
+  },
+  {
+    "description": "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon.",
+    "name": "Mythic Dust",
+    "roll": "35"
+  },
+  {
+    "description": "This paste eats away walls and other surfaces in bright flashes.",
+    "name": "Acidpaste",
+    "roll": "36"
+  },
+  {
+    "description": "When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene.",
+    "name": "Hopehold Flare",
+    "roll": "37"
+  },
+  {
+    "description": "**Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 4d20 magic damage.",
+    "name": "Major Arcane Shard",
+    "roll": "38"
+  },
+  {
+    "description": "You can use this bone to control your falling speed for a number of minutes equal to your level.",
+    "name": "Featherbone",
+    "roll": "39"
+  },
+  {
+    "description": "**Void** Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.",
+    "name": "Circle of the Void",
+    "roll": "40"
+  },
+  {
+    "description": "Consume this sap to roll a d6. On a result of 5-6, clear 2 HP. On a result of 2-4, clear 3 Stress. On a result of 1, see through the veil of death and return changed, gaining one scar.",
+    "name": "Sun Tree Sap",
+    "roll": "41"
+  },
+  {
+    "description": "A creature who consumes this poison takes 8d10 direct magic damage.",
+    "name": "Dripfang Poison",
+    "roll": "42"
+  },
+  {
+    "description": "**Potion** Clear 1d4+2 HP.",
+    "name": "Major Health Potion",
+    "roll": "43"
+  },
+  {
+    "description": "**Potion** Clear 1d4+2 Stress.",
+    "name": "Major Stamina Potion",
+    "roll": "44"
+  },
+  {
+    "description": "You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest.",
+    "name": "Ogre Musk",
+    "roll": "45"
+  },
+  {
+    "description": "You gain magic wings that allow you to fly for a number of minutes equal to your level.",
+    "name": "Wingsprout",
+    "roll": "46"
+  },
+  {
+    "description": "**Voices** You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage.",
+    "name": "Jar of Lost Voices",
+    "roll": "47"
+  },
+  {
+    "description": "**Tea** You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency.",
+    "name": "Dragonbloom Tea",
+    "roll": "48"
+  },
+  {
+    "description": "Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest.",
+    "name": "Bridge Seed",
+    "roll": "49"
+  },
+  {
+    "description": "You can drink this potion to fall asleep for a full night's rest. You clear all Stress upon waking.",
+    "name": "Sleeping Sap",
+    "roll": "50"
+  },
+  {
+    "description": "You can eat this meal to clear all HP and Stress and gain 1d4 Hope.",
+    "name": "Feast of Xuria",
+    "roll": "51"
+  },
+  {
+    "description": "This honey can be used to glue two objects together permanently.",
+    "name": "Bonding Honey",
+    "roll": "52"
+  },
+  {
+    "description": "You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a -1 penalty to your Proficiency.",
+    "name": "Shrinking Potion",
+    "roll": "53"
+  },
+  {
+    "description": "You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency.",
+    "name": "Growing Potion",
+    "roll": "54"
+  },
+  {
+    "description": "**Stone** If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles.",
+    "name": "Knowledge Stone",
+    "roll": "55"
+  },
+  {
+    "description": "You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress.",
+    "name": "Sweet Moss",
+    "roll": "56"
+  },
+  {
+    "description": "You can activate this orb to create a flash of bright light. All targets within Close range become _Vulnerable_ until they mark HP.",
+    "name": "Blinding Orb",
+    "roll": "57"
+  },
+  {
+    "description": "After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die.",
+    "name": "Death Tea",
+    "roll": "58"
+  },
+  {
+    "description": "**Marigold** When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.",
+    "name": "Mirror of Marigold",
+    "roll": "59"
+  },
+  {
+    "description": "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range. **Additional Consumables** _The following table includes the consumables from the Hope & Fear Expansion Set._",
+    "name": "Stardrop",
+    "roll": "60"
+  },
+  {
+    "description": "You can light this candle to fill an area within Close range with a halo of light. A creature outside the halo can't enter it if they have ill intent toward a creature within it. The candle burns for an hour.",
+    "name": "Warding Candle",
+    "roll": "01"
+  },
+  {
+    "description": "This multicolored powder sticks to everything and prevents creatures covered in it from becoming _Hidden_.",
+    "name": "Iridian Dust",
+    "roll": "02"
+  },
+  {
+    "description": "You can use this ice shard to instantly freeze an area of water up to Close range.",
+    "name": "Verglasian Seed",
+    "roll": "03"
+  },
+  {
+    "description": "**Bezoar** You can swallow this bezoar to become immune to poisons until your next long rest.",
+    "name": "Cupbearer’s Bezoar",
+    "roll": "04"
+  },
+  {
+    "description": "**Potion** You can drink this tea to perfectly blend into natural environments until your next rest.",
+    "name": "Mossmantle Potion",
+    "roll": "05"
+  },
+  {
+    "description": "**Lozenge** You can dissolve this lozenge in your mouth to perfectly mimic any voice you've heard until the end of the scene.",
+    "name": "Lyrebird Lozenge",
+    "roll": "06"
+  },
+  {
+    "description": "**Featherfall** You can drink this potion to ignore damage from falling for the next 10 minutes.",
+    "name": "Vial of Featherfall",
+    "roll": "07"
+  },
+  {
+    "description": "You can apply this saliva to a weapon that deals physical damage to change its damage type to magic until your next rest.",
+    "name": "Chimeric Saliva",
+    "roll": "08"
+  },
+  {
+    "description": "**Dust** This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.",
+    "name": "Packet of Space Dust",
+    "roll": "09"
+  },
+  {
+    "description": "When you choose the Clear Stress downtime move during a short rest, you can smoke this non-intoxicating leaf to clear an additional Stress. Any other PCs who chose the Clear Stress downtime move also gain this benefit.",
+    "name": "Pipeweed",
+    "roll": "10"
+  },
+  {
+    "description": "**Powder** You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.",
+    "name": "Deathseer’s Powder",
+    "roll": "11"
+  },
+  {
+    "description": "You can spread this salt in a line along windowsills or thresholds to create a magical barrier that undead creatures can't cross until the line is broken.",
+    "name": "Slayer’s Salt",
+    "roll": "12"
+  },
+  {
+    "description": "After consuming this milk, the next time you clear 1 or more Hit Points, you clear an additional Hit Point.",
+    "name": "Yakamel Milk",
+    "roll": "13"
+  },
+  {
+    "description": "**Mushroom** You can break this mushroom into pieces, causing it to glow bright blue until your next long rest.",
+    "name": "Glowmoss Mushroom",
+    "roll": "14"
+  },
+  {
+    "description": "You can coat your weapon in this oil. The next successful attack you make with this weapon deals an extra 1d8 magic damage and temporarily _Ignites_ the target. While _Ignited_, the target takes 1d4 magic damage when they take the spotlight.",
+    "name": "Red Ooze Oil",
+    "roll": "15"
+  },
+  {
+    "description": "You can unfold this small mechanical box into a camping tent large enough to safely house six people. The tent collapses at the end of your next long rest.",
+    "name": "Instant Camp",
+    "roll": "16"
+  },
+  {
+    "description": "**Spiderlegs** You can eat these spiderlegs to walk on walls until your next rest.",
+    "name": "Bundle of Spiderlegs",
+    "roll": "17"
+  },
+  {
+    "description": "**Bottle** You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes _Hidden_.",
+    "name": "Ciscan Fog Bottle",
+    "roll": "18"
+  },
+  {
+    "description": "You can throw this seed at a point you can see. It explodes into a tangle of binding vines that temporarily _Restrains_ all creatures within Close range of that point.",
+    "name": "Snapthorn Seed",
+    "roll": "19"
+  },
+  {
+    "description": "When you mark your last Hit Point, this bottle shatters to release the Sprite inside. The Sprite clears all your Hit Points before fading from the Mortal Realm.",
+    "name": "Sprite Bottle",
+    "roll": "20"
+  },
+  {
+    "description": "You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it.",
+    "name": "Gravity Bomb",
+    "roll": "21"
+  },
+  {
+    "description": "You can plant this seed in soil. It instantly grows into a small flower that records everything it hears for up to one week. When plucked, the flower recites what it recorded in real time, then withers.",
+    "name": "Gossip Flower",
+    "roll": "22"
+  },
+  {
+    "description": "**Token** You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.",
+    "name": "Displacement Token",
+    "roll": "23"
+  },
+  {
+    "description": "**Dust** You can blow this dust in an adversary's face to prevent them from clearing Stress until your next long rest.",
+    "name": "Night Hag’s Dust",
+    "roll": "24"
+  },
+  {
+    "description": "**Thread** You can use this thread to clear either a Hit Point or 2 Armor Slots.",
+    "name": "Self-Sewing Thread",
+    "roll": "25"
+  },
+  {
+    "description": "**Fortune** When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot- deep wall of solid stone.",
+    "name": "Stonemason’s Fortune",
+    "roll": "26"
+  },
+  {
+    "description": "**Potion** You can drink this potion to Utilize an Experience without spending a Hope.",
+    "name": "Mnemonic Potion",
+    "roll": "27"
+  },
+  {
+    "description": "**Salve** You can apply this salve to your skin to make yourself immune to heat until your next rest.",
+    "name": "Salamander Salve",
+    "roll": "28"
+  },
+  {
+    "description": "You can coat your weapon in this oil. The next successful attack you make with this weapon deals an extra 1d8 magic damage and temporarily _Corrodes_ the target. While _Corroded,_ the target gains a -2 penalty to their damage thresholds.",
+    "name": "Green Ooze Oil",
+    "roll": "29"
+  },
+  {
+    "description": "You can shatter this orb to make the area within Very Far range appear as though it's sunlit daytime for the next 24 hours.",
+    "name": "Sunlight Orb",
+    "roll": "30"
+  },
+  {
+    "description": "You can shatter this orb to make the area within Very Far range appear as though it's moonlit nighttime for the next 24 hours.",
+    "name": "Moonlight Orb",
+    "roll": "31"
+  },
+  {
+    "description": "You can pour this small flask of alchemical liquid over a mundane item to instantly transmute it into a handful of gold.",
+    "name": "Midas Flask",
+    "roll": "32"
+  },
+  {
+    "description": "You can break this staff against the ground to reverse one magical transformation or effect within Far range.",
+    "name": "Staff of Reversal",
+    "roll": "33"
+  },
+  {
+    "description": "**Brew** When you drink this dram of liquid, you gain a bonus to your Strength and a penalty to your Finesse and Knowledge equal to your Instinct (minimum 1). This effect lasts until you make a death move or until your next rest.",
+    "name": "Berserker’s Brew",
+    "roll": "34"
+  },
+  {
+    "description": "Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and become temporarily _Ablaze_. While _Ablaze_, a creature must roll a d4 whenever they make an action roll. On a result of 1, they mark a Hit Point. On a result of 4, they clear the _Ablaze_ condition.",
+    "name": "Emberite Shard",
+    "roll": "35"
+  },
+  {
+    "description": "Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and become temporarily _Restrained_ by ice.",
+    "name": "Arcticite Shard",
+    "roll": "36"
+  },
+  {
+    "description": "Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and mark 1d4 Stress as lightning crackles through the area.",
+    "name": "Fulgurite Shard",
+    "roll": "37"
+  },
+  {
+    "description": "**Draught** You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll.",
+    "name": "Demiurge’s Draught",
+    "roll": "38"
+  },
+  {
+    "description": "**Tea** You can drink this tea to refresh your features as if you had taken a long rest.",
+    "name": "Cockerel Claw Tea",
+    "roll": "39"
+  },
+  {
+    "description": "**Vigilance** You can drink this potion to gain a +1 bonus to your Evasion until you mark a Hit Point.",
+    "name": "Potion of Vigilance",
+    "roll": "40"
+  },
+  {
+    "description": "**Concoction** When you drink this potion, anything you say or do in the next hour becomes impossible for a witness to recount. Any attempts they make to communicate what they saw, heard, or otherwise sensed comes out garbled or nonsensical.",
+    "name": "Cacophonous Concoction",
+    "roll": "41"
+  },
+  {
+    "description": "**Mead** You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear.",
+    "name": "Nightmare Mead",
+    "roll": "42"
+  },
+  {
+    "description": "**Abjuration** You can hammer this stake into the ground and make a proclamation. Until your next rest, a creature within Far range of the stake who transgresses that proclamation must mark a Stress. The stake lasts until your next rest, then it shatters.",
+    "name": "Stake of Abjuration",
+    "roll": "43"
+  },
+  {
+    "description": "**Shroud** You can place this shroud over the corpse of a recently deceased creature. The creature's spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.",
+    "name": "Psychopomp’s Shroud",
+    "roll": "44"
+  },
+  {
+    "description": "You can drink this bottle of ink to transform into a cephalopod of roughly your size for the next hour. You gain rubbery skin, soft bones, the ability to breathe underwater, and new limbs until you have eight total.",
+    "name": "Phial of Deep Ink",
+    "roll": "45"
+  },
+  {
+    "description": "When you drink this tonic, the only thing you can hear until your next rest are the surface thoughts of creatures within Very Close range.",
+    "name": "Mesmer’s Tonic",
+    "roll": "46"
+  },
+  {
+    "description": "**Potion** You are _Hidden_ until you deal damage to another creature or until your next rest.",
+    "name": "Invisibility Potion",
+    "roll": "47"
+  },
+  {
+    "description": "You can drink this potion to become a swarm of 16 million ants until the end of the scene. You keep and have access to all equipment, loot, and features.",
+    "name": "Formoid Serum",
+    "roll": "48"
+  },
+  {
+    "description": "You can apply this salve to your skin to gain a bonus to your damage thresholds equal to your tier until the end of the scene.",
+    "name": "Steelskin Salve",
+    "roll": "49"
+  },
+  {
+    "description": "**Pomelo** You can eat this citrus fruit to clear all Hit Points and Stress.",
+    "name": "Godling’s Pomelo",
+    "roll": "50"
+  },
+  {
+    "description": "You can drink this potion to slough off your outer layer of skin and heal a scar.",
+    "name": "Snakeskin Spirit",
+    "roll": "51"
+  },
+  {
+    "description": "**Malison** When you release this spellcaster's trapped soul, you can cast one spell from a card in your vault as if it were in your loadout. This doesn't work for permanently vaulted cards.",
+    "name": "Magic-User’s Malison",
+    "roll": "52"
+  },
+  {
+    "description": "**Severant** You can use this magic blade to cut one magical or metaphysical bond, such as an enchantment, contract, magical tether, or divine oath. When you do, the blade shatters.",
+    "name": "Quintessential Severant",
+    "roll": "53"
+  },
+  {
+    "description": "**Echoed Self** You can wear this mask during your next level up to swap the values of any of your traits. When you do, the mask becomes your permanent face.",
+    "name": "Mask of the Echoed Self",
+    "roll": "54"
+  },
+  {
+    "description": "**Bell** You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.",
+    "name": "Necroprancer’s Bell",
+    "roll": "55"
+  },
+  {
+    "description": "You can use this enchanted ancient dragon hide to gain draconic characteristics until the end of the scene, when the hide falls aways in tatters. Until then, you can fly and gain a +5 bonus to your damage thresholds and a +1 bonus to your Proficiency.",
+    "name": "Drakemantle",
+    "roll": "56"
+  },
+  {
+    "description": "**Fallacy** You can spend any number of handfuls of gold by placing them into this slotted ceramic jar shaped like a pig. When you throw the jar at a point within Far range, it explodes and deals 1d20 magic damage for each handful of gold spent to all creatures within Close range of that point. All gold within the jar is destroyed.",
+    "name": "Gambler’s Fallacy",
+    "roll": "57"
+  },
+  {
+    "description": "You can drink this tonic to gain a +1 bonus to your Proficiency until you roll with Fear.",
+    "name": "Lionheart Tonic",
+    "roll": "58"
+  },
+  {
+    "description": "**Undying Hero** When you drink this potion, death can't touch you until your next long rest. When you would mark your last Hit Point, instead of making a death move, you make one final action roll before falling into a dreamless slumber until an ally chooses the Tend to Wounds downtime move to clear your Hit Points.",
+    "name": "Tears of the Undying Hero",
+    "roll": "59"
+  },
+  {
+    "description": "**Potion** You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest.",
+    "name": "Featherstep Potion",
+    "roll": "60"
+  }
+]

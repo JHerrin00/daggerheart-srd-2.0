@@ -1,0 +1,806 @@
+[
+  {
+    "base_score": "2",
+    "base_thresholds": "4 / 10",
+    "feature": [
+      {
+        "name": "Enchanted",
+        "text": "Gain a bonus to your damage thresholds equal to your Spellcast trait."
+      }
+    ],
+    "name": "Mage Robes",
+    "tier": "1"
+  },
+  {
+    "base_score": "3",
+    "base_thresholds": "5 / 11",
+    "feature": [
+      {
+        "name": "Flexible",
+        "text": "+1 to Evasion"
+      }
+    ],
+    "name": "Gambeson Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "3",
+    "base_thresholds": "6 / 12",
+    "feature": [
+      {
+        "name": "Lined",
+        "text": "Mark a Stress to negate Minor damage."
+      }
+    ],
+    "name": "Brigandine Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "3",
+    "base_thresholds": "6 / 13",
+    "name": "Leather Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "3",
+    "base_thresholds": "7 / 14",
+    "feature": [
+      {
+        "name": "Cumbersome",
+        "text": "-1 to Finesse"
+      }
+    ],
+    "name": "Scale Mail Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "7 / 15",
+    "feature": [
+      {
+        "name": "Heavy",
+        "text": "-1 to Evasion"
+      }
+    ],
+    "name": "Chainmail Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "8 / 16",
+    "feature": [
+      {
+        "name": "Bulky",
+        "text": "-1 to Evasion; when you take Severe damage, you must mark a Stress."
+      }
+    ],
+    "name": "Banded Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "8 / 17",
+    "feature": [
+      {
+        "name": "Very Heavy",
+        "text": "-2 to Evasion; -1 to Agility"
+      }
+    ],
+    "name": "Full Plate Armor",
+    "tier": "1"
+  },
+  {
+    "base_score": "3",
+    "base_thresholds": "6 / 15",
+    "feature": [
+      {
+        "name": "Enchanted",
+        "text": "Gain a bonus to your damage thresholds equal to your Spellcast trait."
+      }
+    ],
+    "name": "Improved Mage Robes",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "7 / 16",
+    "feature": [
+      {
+        "name": "Flexible",
+        "text": "+1 to Evasion"
+      }
+    ],
+    "name": "Improved Gambeson Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 19",
+    "feature": [
+      {
+        "name": "Lined",
+        "text": "Mark a Stress to negate Minor damage."
+      }
+    ],
+    "name": "Improved Brigandine Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "name": "Improved Leather Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "11 / 23",
+    "feature": [
+      {
+        "name": "Cumbersome",
+        "text": "-1 to Finesse"
+      }
+    ],
+    "name": "Improved Scale Mail Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 24",
+    "feature": [
+      {
+        "name": "Heavy",
+        "text": "-1 to Evasion"
+      }
+    ],
+    "name": "Improved Chainmail Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "13 / 27",
+    "feature": [
+      {
+        "name": "Bulky",
+        "text": "-1 to Evasion; when you take Severe damage, you must mark a Stress."
+      }
+    ],
+    "name": "Improved Banded Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "13 / 28",
+    "feature": [
+      {
+        "name": "Very Heavy",
+        "text": "-2 to Evasion; -1 to Agility"
+      }
+    ],
+    "name": "Improved Full Plate Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Mnemonic",
+        "text": "Once per scene, you can recall a domain card from your vault without paying its Recall Cost."
+      }
+    ],
+    "name": "Enchanter’s Robes",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Gliding",
+        "text": "You can glide up to Far range and are immune to damage from falling."
+      }
+    ],
+    "name": "Hawkguard’s Mantle",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Wall-Crawling",
+        "text": "+1 Evasion; you can walk on walls as easily as on the ground."
+      }
+    ],
+    "name": "Spidersilk Tunic",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Absorbing",
+        "text": "Once per scene when you take magic damage, you can clear an Armor Slot."
+      }
+    ],
+    "name": "Stormthread Habit",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 21",
+    "feature": [
+      {
+        "name": "Warded",
+        "text": "You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
+      }
+    ],
+    "name": "Elundrian Chain Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 21",
+    "feature": [
+      {
+        "name": "Resilient",
+        "text": "Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
+      }
+    ],
+    "name": "Harrowbone Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Reinforced",
+        "text": "When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
+      }
+    ],
+    "name": "Irontree Breastplate Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "9 / 20",
+    "feature": [
+      {
+        "name": "Shifting",
+        "text": "When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
+      }
+    ],
+    "name": "Runetan Floating Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "8 / 18",
+    "feature": [
+      {
+        "name": "Quiet",
+        "text": "You gain a +2 bonus to rolls you make to move silently."
+      }
+    ],
+    "name": "Tyris Soft Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "10 / 21",
+    "feature": [
+      {
+        "name": "Quick-Striding",
+        "text": "You can't be _Restrained_ and can move up to Far range as part of an action roll."
+      }
+    ],
+    "name": "Wyrdwood Splint Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 23",
+    "feature": [
+      {
+        "name": "Hopeful",
+        "text": "When you would spend a Hope, you can mark an Armor Slot instead."
+      }
+    ],
+    "name": "Rosewild Armor",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 23",
+    "feature": [
+      {
+        "name": "Self-Healing",
+        "text": "When you take a rest, clear an Armor Slot."
+      }
+    ],
+    "name": "Trollhide Cuirass",
+    "tier": "2"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "12 / 26",
+    "feature": [
+      {
+        "name": "Resplendent",
+        "text": "Once per scene when you spend Hope, you can clear an Armor Slot."
+      }
+    ],
+    "name": "Gilded Sunplate",
+    "tier": "2"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "8 / 22",
+    "feature": [
+      {
+        "name": "Enchanted",
+        "text": "Gain a bonus to your damage thresholds equal to your Spellcast trait."
+      }
+    ],
+    "name": "Advanced Mage Robes",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "9 / 23",
+    "feature": [
+      {
+        "name": "Flexible",
+        "text": "+1 to Evasion"
+      }
+    ],
+    "name": "Advanced Gambeson Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 26",
+    "feature": [
+      {
+        "name": "Lined",
+        "text": "Mark a Stress to negate Minor damage."
+      }
+    ],
+    "name": "Advanced Brigandine Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "name": "Advanced Leather Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "13 / 30",
+    "feature": [
+      {
+        "name": "Cumbersome",
+        "text": "-1 to Finesse"
+      }
+    ],
+    "name": "Advanced Scale Mail Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 31",
+    "feature": [
+      {
+        "name": "Heavy",
+        "text": "-1 to Evasion"
+      }
+    ],
+    "name": "Advanced Chainmail Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "15 / 34",
+    "feature": [
+      {
+        "name": "Bulky",
+        "text": "-1 to Evasion; when you take Severe damage, you must mark a Stress."
+      }
+    ],
+    "name": "Advanced Banded Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "15 / 35",
+    "feature": [
+      {
+        "name": "Very Heavy",
+        "text": "-2 to Evasion; -1 to Agility"
+      }
+    ],
+    "name": "Advanced Full Plate Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "2",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Magnificent",
+        "text": "Gain a bonus to your Armor Score equal to your Presence."
+      }
+    ],
+    "name": "Granminster’s Finery",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "10 / 25",
+    "feature": [
+      {
+        "name": "Sharp",
+        "text": "On a successful attack against a target within Melee range, add a d4 to the damage roll."
+      }
+    ],
+    "name": "Spiked Plate Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Stellar",
+        "text": "Mark a Stress to gain advantage on a Spellcast roll."
+      }
+    ],
+    "name": "Astral Raiment",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Gilded",
+        "text": "+1 to Presence"
+      }
+    ],
+    "name": "Bellamoi Fine Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Fortune-Favored",
+        "text": "Once per scene, you can change a failure with Hope into a success with Fear."
+      }
+    ],
+    "name": "Cloverweave Cloak",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Impenetrable",
+        "text": "Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
+      }
+    ],
+    "name": "Dragonscale Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "11 / 27",
+    "feature": [
+      {
+        "name": "Vigilant",
+        "text": "+2 to Evasion"
+      }
+    ],
+    "name": "Skywarden’s Lamellar",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 35",
+    "feature": [
+      {
+        "name": "Bloodthirsty",
+        "text": "When you critically succeed on a weapon attack within Melee range, clear a Hit Point."
+      }
+    ],
+    "name": "Bloodstone Plate Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 35",
+    "feature": [
+      {
+        "name": "Aquatic",
+        "text": "You can breathe underwater and gain advantage on Agility Rolls while submerged."
+      }
+    ],
+    "name": "Deep-Forged Coral Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "16 / 39",
+    "feature": [
+      {
+        "name": "Physical",
+        "text": "You can't mark an Armor Slot to reduce magic damage."
+      }
+    ],
+    "name": "Bladefare Armor",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "16 / 39",
+    "feature": [
+      {
+        "name": "Magic",
+        "text": "You can't mark an Armor Slot to reduce physical damage."
+      }
+    ],
+    "name": "Monett’s Cloak",
+    "tier": "3"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "17 / 43",
+    "feature": [
+      {
+        "name": "Painful",
+        "text": "Each time you mark an Armor Slot, you must mark a Stress."
+      }
+    ],
+    "name": "Runes of Fortification",
+    "tier": "3"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "10 / 31",
+    "feature": [
+      {
+        "name": "Enchanted",
+        "text": "Gain a bonus to your damage thresholds equal to your Spellcast trait."
+      }
+    ],
+    "name": "Legendary Mage Robes",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "11 / 32",
+    "feature": [
+      {
+        "name": "Flexible",
+        "text": "+1 to Evasion"
+      }
+    ],
+    "name": "Legendary Gambeson Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 35",
+    "feature": [
+      {
+        "name": "Lined",
+        "text": "Mark a Stress to negate Minor damage."
+      }
+    ],
+    "name": "Legendary Brigandine Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 36",
+    "name": "Legendary Leather Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "15 / 39",
+    "feature": [
+      {
+        "name": "Cumbersome",
+        "text": "-1 to Finesse"
+      }
+    ],
+    "name": "Legendary Scale Mail Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "15 / 40",
+    "feature": [
+      {
+        "name": "Heavy",
+        "text": "-1 to Evasion"
+      }
+    ],
+    "name": "Legendary Chainmail Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "17 / 43",
+    "feature": [
+      {
+        "name": "Bulky",
+        "text": "-1 to Evasion; when you take Severe damage, you must mark a Stress."
+      }
+    ],
+    "name": "Legendary Banded Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "17 / 44",
+    "feature": [
+      {
+        "name": "Very Heavy",
+        "text": "-2 to Evasion; -1 to Agility"
+      }
+    ],
+    "name": "Legendary Full Plate Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "4",
+    "base_thresholds": "15 / 40",
+    "feature": [
+      {
+        "name": "Fortified",
+        "text": "When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
+      }
+    ],
+    "name": "Full Fortified Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Channeling",
+        "text": "+1 to Spellcast Rolls"
+      }
+    ],
+    "name": "Channeling Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "5",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Ghostwalker",
+        "text": "Once per rest, mark a Stress to move up to Close range through solid objects."
+      }
+    ],
+    "name": "Darkweave Shroud",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Burning",
+        "text": "When an adversary attacks you within Melee range, they mark a Stress."
+      }
+    ],
+    "name": "Emberwoven Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Divine",
+        "text": "When you mark an Armor Slot, gain a Hope."
+      }
+    ],
+    "name": "Godbound Laminar",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Truthseeking",
+        "text": "This armor glows when another creature within Close range tells a lie."
+      }
+    ],
+    "name": "Veritas Opal Armor",
+    "tier": "4"
+  },
+  {
+    "base_score": "6",
+    "base_thresholds": "14 / 38",
+    "feature": [
+      {
+        "name": "Accursed",
+        "text": "When you mark any number of Hit Points from an attack, roll a d4. On a result of 4, the attacker must mark an equal number of Stress."
+      }
+    ],
+    "name": "Circle-Forged Dreadplate",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "12 / 39",
+    "feature": [
+      {
+        "name": "Attuned",
+        "text": "The maximum number of domain cards in your loadout is reduced by one, but you gain a bonus to your damage thresholds equal to your tier."
+      }
+    ],
+    "name": "Rune-Forged Exosuit",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "13 / 36",
+    "feature": [
+      {
+        "name": "Timeslowing",
+        "text": "Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
+      }
+    ],
+    "name": "Dunamis Silkchain",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "13 / 35",
+    "feature": [
+      {
+        "name": "Blessed",
+        "text": "Once per long rest, you can spend any number of Hope before you make the Risk It All death move. You gain a bonus to the result of your Hope Die equal to the number of Hope spent."
+      }
+    ],
+    "name": "Hallowed Heroplate",
+    "tier": "4"
+  },
+  {
+    "base_score": "7",
+    "base_thresholds": "15 / 40",
+    "feature": [
+      {
+        "name": "Vitreous",
+        "text": "When you would take Severe or greater damage, you can mark 2 Armor Slots to negate that damage. If you do, you gain a -5 penalty to your damage thresholds until you choose to repair your armor as a downtime move."
+      }
+    ],
+    "name": "Resonant Harness",
+    "tier": "4"
+  },
+  {
+    "base_score": "8",
+    "base_thresholds": "18 / 48",
+    "feature": [
+      {
+        "name": "Difficult",
+        "text": "-1 to all character traits and Evasion"
+      }
+    ],
+    "name": "Savior Chainmail",
+    "tier": "4"
+  }
+]

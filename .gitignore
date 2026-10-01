@@ -1,0 +1,28 @@
+# Private build tools (kept on this computer, not published)
+tools/
+
+# Build byproducts: only .build/03_json/ is published
+.build/01_pdf/
+.build/02_csv/
+.build/04_md/
+.build/README.md
+.build/validation.md
+
+# Python and macOS
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Working files from the verify and merge tools
+_merge_review/
+_merge_report.md
+verify.txt
+build.txt
+
+# The official PDF is linked, not stored here
+*.pdf
+srd-test*/
+srd-raw-*/
+srd-build/
+check-build/
