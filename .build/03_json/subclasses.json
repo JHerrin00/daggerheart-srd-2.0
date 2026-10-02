@@ -665,7 +665,7 @@
     "mastery": [
       {
         "name": "Lunar Phases",
-        "text": "At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.\n\nRoll Phase Effect\n\n**1** New **Spend a Hope** to negate Minor damage.\n\n**2-3** Waxing +2 to damage rolls\n\n**4** Full +3 to damage thresholds\n\n**5-6** Waning +1 to Evasion\n\nOnce per rest, you can **spend a Hope** to increase the value of this die by one. If you increase the value of a 6, it becomes a 1."
+        "text": "At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.\n\n| Roll | Phase | Effect |\n| --- | --- | --- |\n| **1** | New | **Spend a Hope** to negate Minor damage. |\n| **2-3** | Waxing | +2 to damage rolls |\n| **4** | Full | +3 to damage thresholds |\n| **5-6** | Waning | +1 to Evasion |\n\nOnce per rest, you can **spend a Hope** to increase the value of this die by one. If you increase the value of a 6, it becomes a 1."
       }
     ],
     "name": "Moon Witch",

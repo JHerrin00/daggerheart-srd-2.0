@@ -182,7 +182,7 @@
       },
       {
         "name": "Warning Hiss",
-        "text": "_Mark a Stress_ to force any number of targets within Melee range to move back to Very Close range."
+        "text": "**Mark a Stress** to force any number of targets within Melee range to move back to Very Close range."
       }
     ],
     "name": "Striking Serpent",

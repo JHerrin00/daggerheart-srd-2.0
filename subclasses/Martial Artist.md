@@ -40,7 +40,7 @@ Take the Martial Stances sheet and choose two martial stances from Tier 1. Each 
 
 - I still haven’t forgiven you for something you said to me. What was it, and why did you say it?
 
-MARTIAL STANCES
+#### MARTIAL STANCES
 
 When you choose the Martial Artist subclass, take the Martial Stances sheet to track which stances your character knows. You can also track which stance you have active and your current Focus.
 
