@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Reliable:*** +1 to attack rolls Name Trait Range Damage Burden
+***Reliable:*** +1 to attack rolls

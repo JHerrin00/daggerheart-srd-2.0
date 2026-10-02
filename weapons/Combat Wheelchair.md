@@ -22,9 +22,7 @@ GMs should avoid breaking a character's wheelchair or otherwise removing it from
 Your character is assumed to be skilled in moving their wheelchair and navigating numerous situations in it. As a result, the only wheelchair that gives a penalty to a PC's Evasion is the Heavy Frame model.
 
 ## Burden
-All wheelchairs can be maneuvered using one or two hands outside of combat. However, when being used as a weapon, the chair is restricted to requiring one or two hands to perform attacks, depending on the model you’ve chosen. 
-
-If you’re playing a character who has limited to no mobility in their arms, their wheelchair can be attuned to them by magical means. For example, your character might use a psychic link to guide the chair around like a pseudo-electric wheelchair. All the rules presented here can be tailored and adapted to any character's needs.
+All wheelchairs can be maneuvered using one or two hands outside of combat. However, when being used as a weapon, the chair is restricted to requiring one or two hands to perform attacks, depending on the model you’ve chosen. If you’re playing a character who has limited to no mobility in their arms, their wheelchair can be attuned to them by magical means. For example, your character might use a psychic link to guide the chair around like a pseudo-electric wheelchair. All the rules presented here can be tailored and adapted to any character's needs.
 
 ## Choosing Your Model
 All combat wheelchairs are equipped as Primary Weapons. There are three models of wheelchair available: light, heavy, and arcane. You’re encouraged to consider the type of character you’re playing and the class they belong to, then choose the model that best matches that character concept.

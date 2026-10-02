@@ -18,7 +18,9 @@
 
 ***Here Comes the Boom - Action:*** **Spend a Fear** to have the Roc unleash a storm of lightning and thunder. Make an attack roll against **1d4+1** targets within Far range. Targets the Roc succeeds against take **3d12** magic damage. Then each target within Far range of the Roc must make an Agility Reaction Roll (20). Targets who fail take **3d8** physical damage and are pushed back to Close range. Targets who succeed must mark a Stress.
 
-***Crushing Grasp - Reaction:*** When the Roc makes a successful standard attack, you can **mark a Stress** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and *Restraining* them until they succeed on a Strength Roll (20). ***Nest Warden - Evolution:*** When the Roc’s eggs are threatened, it gains the following features:
+***Crushing Grasp - Reaction:*** When the Roc makes a successful standard attack, you can **mark a Stress** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and *Restraining* them until they succeed on a Strength Roll (20).
+
+***Nest Warden - Evolution:*** When the Roc’s eggs are threatened, it gains the following features:
 
 ***Wrathful - Passive:*** The Roc gains a +2 bonus to its Difficulty and a bonus to damage rolls equal to the number of Stress it has marked.
 

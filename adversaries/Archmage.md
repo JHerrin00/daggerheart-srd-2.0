@@ -6,7 +6,7 @@
 **Motives & Tactics:** Corrupt, destroy, overwhelm with evil power
 
 > **Difficulty:** 18 | **Thresholds:** 24/45 | **HP:** 5 | **Stress:** 8  
-> **ATK:** +5 | **Archmage’s Greatstaff :** Far | 3d10 mag
+> **ATK:** +5 | **Archmage’s Greatstaff:** Far | 3d10 mag
 
 **Experience:** Esoterica +4
 

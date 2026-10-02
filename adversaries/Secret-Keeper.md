@@ -6,7 +6,7 @@
 **Motives & Tactics:** Amass great power, plot, take command
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +3 | **Sigil-laden Staff :** Far | 2d12 mag
+> **ATK:** +3 | **Sigil-laden Staff:** Far | 2d12 mag
 
 **Experience:** Coercion +2, Fallen Lore +2
 
@@ -18,4 +18,4 @@
 
 ***Summoning Ritual - Reaction:*** *Countdown (6)*. When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range.
 
-***Fallen Hounds - Reaction:*** Once per scene, when the Secret- Keeper marks 2 or more HP, you can **mark a Stress** to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted.
+***Fallen Hounds - Reaction:*** Once per scene, when the Secret-Keeper marks 2 or more HP, you can **mark a Stress** to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted.

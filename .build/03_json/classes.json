@@ -8,7 +8,7 @@
         "question": "What organization trained you in the art of killing, and how did you become a member?"
       },
       {
-        "question": "Throughout your career, one target has eluded you."
+        "question": "Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?"
       }
     ],
     "connection": [
@@ -223,7 +223,7 @@
         "question": "You've been tasked with protecting something important and delivering it somewhere dangerous. What is it, and where does it need to go?"
       },
       {
-        "question": "You consider an aspect of yourself to be a weakness."
+        "question": "You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?"
       }
     ],
     "connection": [
@@ -319,7 +319,7 @@
     "feature": [
       {
         "name": "Ranger's Focus",
-        "text": "Spend a Hope** and make an attack against a target. On a success, deal your attack's normal damage and temporarily make the attack's target your _Focus_. Until this feature ends or you make a different creature your _Focus_, you gain the following benefits against your _Focus:_\n\n- You know precisely what direction they are in.\n- When you deal damage to them, they must mark a Stress.\n- When you fail an attack against them, you can end your Ranger's Focus feature to reroll your Duality Dice."
+        "text": "**Spend a Hope** and make an attack against a target. On a success, deal your attack's normal damage and temporarily make the attack's target your _Focus_. Until this feature ends or you make a different creature your _Focus_, you gain the following benefits against your _Focus:_\n\n- You know precisely what direction they are in.\n- When you deal damage to them, they must mark a Stress.\n- When you fail an attack against them, you can end your Ranger's Focus feature to reroll your Duality Dice."
       }
     ],
     "hope_feature_name": "Hold Them Off",

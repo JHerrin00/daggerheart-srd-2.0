@@ -14,9 +14,7 @@ Instinct
 
 - ***Earth:*** Gain a bonus to your damage thresholds equal to your Proficiency.
 
-- ***Water:*** When you deal damage to an adversary within
-
-Melee range, all other adversaries within Very Close range must mark a Stress.
+- ***Water:*** When you deal damage to an adversary within Melee range, all other adversaries within Very Close range must mark a Stress.
 
 - ***Air:*** You can hover, gaining advantage on Agility Rolls.
 
@@ -38,9 +36,7 @@ Melee range, all other adversaries within Very Close range must mark a Stress.
 
 - ***Fire:*** You gain a +1 bonus to your Proficiency for attacks and spells that deal damage.
 
-- ***Earth:*** When you would mark Hit Points, roll a **d6** per Hit
-
-Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.
+- ***Earth:*** When you would mark Hit Points, roll a **d6** per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.
 
 - ***Water:*** When an attack against you succeeds, you can **mark a Stress** to make the attacker temporarily *Vulnerable*.
 

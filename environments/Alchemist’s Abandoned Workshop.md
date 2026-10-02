@@ -1,4 +1,4 @@
-# Workshop
+# Alchemist’s Abandoned Workshop
 
 ***Tier 1 Exploration***
 *A lightning-powered laboratory built by a scientist searching for the secret to immortality.*

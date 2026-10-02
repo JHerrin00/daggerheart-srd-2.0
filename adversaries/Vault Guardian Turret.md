@@ -1,7 +1,7 @@
 # Vault Guardian Turret
 
 ***Tier 3 Ranged***
-*A massive living turret with reinforced armor and twelve piston- driven mechanical legs.*
+*A massive living turret with reinforced armor and twelve piston-driven mechanical legs.*
 
 **Motives & Tactics:** Concentrate fire, lock down, mark, protect
 

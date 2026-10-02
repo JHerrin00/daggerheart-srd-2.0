@@ -18,9 +18,7 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 ***Hex:*** **Mark a Stress** to temporarily *Hex* a target within Far range. While *Hexed*, the target gains a penalty to their damage rolls and Difficulty equal to your tier. The maximum number of creatures you can *Hex* at one time is equal to your Spellcast trait.
 
-***Commune:*** Once per long rest during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a
-
-number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.
+***Commune:*** Once per long rest during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.
 
 Roll Effect
 

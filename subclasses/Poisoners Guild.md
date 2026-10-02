@@ -24,9 +24,7 @@ When you take a long rest, clear all unspent tokens.
 
 - ***Midnight Vine:*** The target has disadvantage on attack rolls until it marks a Stress to clear this condition.
 
-- ***Gorgon Root:*** The target becomes temporarily
-
-*Restrained*.
+- ***Gorgon Root:*** The target becomes temporarily *Restrained*.
 
 ***Twin Fang:*** When you afflict a target *Marked for Death* with a poison you know, you can spend an additional token to also inflict the effect of a second poison you know.
 
@@ -50,9 +48,7 @@ When you take a long rest, clear all unspent tokens.
 
 - What organization trained you in the art of killing, and how did you become a member?
 
-- Throughout your career, one target has eluded you.
-
-Who are they, and how have they slipped through your fingers?
+- Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?
 
 **CONNECTIONS**
 

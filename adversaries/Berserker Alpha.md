@@ -1,7 +1,7 @@
 # Berserker Alpha
 
 ***Tier 2 Leader***
-*A veteran commander who quaff s magic elixirs to change into a beast and lead their packmates on a hunt.*
+*A veteran commander who quaffs magic elixirs to change into a beast and lead their packmates on a hunt.*
 
 **Motives & Tactics:** Embrace the change, howl at the moon, lead the pack, run down enemies
 

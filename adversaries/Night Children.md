@@ -12,7 +12,7 @@
 
 ## FEATURES
 
-***Horde (2d4+2) - Passive:*** When the Night Children have marked half or more of their HP, their standard attack deals **2d6+2** physical damage instead.
+***Horde (2d6+2) - Passive:*** When the Night Children have marked half or more of their HP, their standard attack deals **2d6+2** physical damage instead.
 
 ***Swell Ranks - Action:*** Once per scene, **mark any number of Stress** to have the Night Children open a portal that spews forth reinforcements, refilling the Horde’s ranks. Clear a number of HP equal to the number of Stress marked.
 

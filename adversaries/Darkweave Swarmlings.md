@@ -14,4 +14,4 @@
 
 ***Horde (1d4) - Passive:*** When the Swarmlings have marked half or more of their HP, their standard attack deals **1d4** physical damage instead.
 
-***“Get ’em Off , Get ’em Off !” - Reaction:*** When an attack from the Swarmlings causes a target to mark HP, you can **mark a Stress** to make the target temporarily *Covered in Spiders.* While *Covered* *in Spiders,* the target must roll a **d6** when they make an action roll. On a result of 4 or higher, they must mark a Stress or you gain a Fear.
+***“Get ’em Off, Get ’em Off!” - Reaction:*** When an attack from the Swarmlings causes a target to mark HP, you can **mark a Stress** to make the target temporarily *Covered in Spiders.* While *Covered* *in Spiders,* the target must roll a **d6** when they make an action roll. On a result of 4 or higher, they must mark a Stress or you gain a Fear.

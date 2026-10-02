@@ -40,9 +40,7 @@ While *Unstoppable*, you gain the following benefits:
 
 - You’ve been tasked with protecting something important and delivering it somewhere dangerous. What is it, and where does it need to go?
 
-- You consider an aspect of yourself to be a weakness.
-
-What is it, and how has it affected you?
+- You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?
 
 **CONNECTIONS**
 

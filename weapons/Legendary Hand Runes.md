@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-— Name Trait Range Damage Burden
+—

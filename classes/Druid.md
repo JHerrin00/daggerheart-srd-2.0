@@ -18,7 +18,7 @@ Becoming a druid is more than an occupation; it’s a calling for those who wish
 
 ***Beastform:*** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can’t use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform’s features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you’re in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
 
-***Wildtouch*****:** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire— at will.
+***Wildtouch:*** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire— at will.
 
 ### SUBCLASSES
 
@@ -56,9 +56,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 - **Attack Rolls:** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
 
-- **Evasion:** While transformed, you add the creature’s
-
-Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
+- **Evasion:** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
 
 - **Advantages:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
 
@@ -186,7 +184,7 @@ TIER 2
 
 ***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct physical damage each time they act.
 
-***Warning Hiss*****: Mark a Stress** to force any number of targets within Melee range to move back to Very Close range.
+***Warning Hiss:*** **Mark a Stress** to force any number of targets within Melee range to move back to Very Close range.
 
 **POUNCING PREDATOR**
 

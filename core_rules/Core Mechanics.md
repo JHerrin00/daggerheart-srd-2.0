@@ -88,21 +88,13 @@ All action rolls require a pair of d12s called **Duality Dice.** These are two v
 
 To make an action roll, you roll the Duality Dice, sum the results, apply any relevant modifiers, and compare the total to a Difficulty number to determine the outcome:
 
-- **Success with Hope:** If your total meets or beats the
+- **Success with Hope:** If your total meets or beats the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope, and the spotlight stays with the players.
 
-Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope, and the spotlight stays with the players.
+- **Success with Fear:** If your total meets or beats the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Success with Fear.” You succeed with a cost or complication, but the GM gains a Fear, then takes the spotlight.
 
-- **Success with Fear:** If your total meets or beats the
+- **Failure with Hope:** If your total is less than the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Failure with Hope.” You fail with a minor consequence and gain a Hope, then the spotlight swings to the GM.
 
-Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Success with Fear.” You succeed with a cost or complication, but the GM gains a Fear, then takes the spotlight.
-
-- **Failure with Hope:** If your total is less than the Difficulty
-
-AND your Hope Die shows a higher result than your Fear Die, you rolled a “Failure with Hope.” You fail with a minor consequence and gain a Hope, then the spotlight swings to the GM.
-
-- **Failure with Fear:** If your total is less than the Difficulty
-
-AND your Fear Die shows a higher result than your Hope Die, you rolled a “Failure with Fear.” You fail with a major consequence and the GM gains a Fear, then the spotlight swings to the GM.
+- **Failure with Fear:** If your total is less than the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Failure with Fear.” You fail with a major consequence and the GM gains a Fear, then the spotlight swings to the GM.
 
 - **Critical Success:** If the Duality Dice show matching results, you rolled a “Critical Success” (“Crit”). You automatically succeed with a bonus, gain a Hope, and clear a Stress. If this was an attack roll, you deal critical damage.
 
@@ -262,19 +254,19 @@ Players can spend Hope to:
 
 - **Help an Ally**
 
-When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
+  When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
 
 - **Utilize an Experience**
 
-When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
+  When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
 
 - **Initiate a Tag Team Roll**
 
-Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their action rolls and then choose which set of results to apply to the outcome.
+  Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their action rolls and then choose which set of results to apply to the outcome.
 
 - **Activate a Hope Feature**
 
-A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. **Class Hope features** are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
+  A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. **Class Hope features** are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
 
 ***Note:*** *When using a Hope Feature, if you rolled with Hope* *for that action, the Hope you gain from that roll can be spent* *on that feature (or toward it, if it requires spending multiple* *Hope).*
 
@@ -574,25 +566,21 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 
 - *When you choose to* ***increase two unmarked character*** ***traits*** *and mark them:* Choose two unmarked character traits and gain a permanent +1 bonus to them. You can’t increase these stats again until the next tier (when your tier achievement allows you to clear those marks).
 
-- *When you choose to* ***permanently add 1 or more Hit Point*** ***slots****:* Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
+- *When you choose to* ***permanently add 1 or more Hit Point*** ***slots***: Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
 
-- *When you choose to* ***permanently add 1 or more Stress*** ***slots****:* Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
+- *When you choose to* ***permanently add 1 or more Stress*** ***slots***: Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
 
-- *When you choose to* ***increase your Experience****:* Choose two
+- *When you choose to* ***increase your Experience***: Choose two Experiences on your character sheet and gain a permanent +1 bonus to both.
 
-Experiences on your character sheet and gain a permanent +1 bonus to both.
+- *When you* ***take an additional domain card***: You can choose an additional domain card at or below your level or from your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen multiclass domain.
 
-- *When you* ***take an additional domain card****:* You can choose an additional domain card at or below your level or from your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen multiclass domain.
+- *When you choose to* ***increase your Evasion***: Gain a permanent +1 bonus to your Evasion.
 
-- *When you choose to* ***increase your Evasion****:* Gain a permanent +1 bonus to your Evasion.
+- *When you choose to* ***take an upgraded subclass card***: Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.
 
-- *When you choose to* ***take an upgraded subclass card****:*
+- *When you choose to* ***increase your Proficiency***: Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s* *slots indicates you must spend two advancements and mark* *both level-up slots in order to take it as an option.*
 
-Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.
-
-- *When you choose to* ***increase your Proficiency****:* Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s* *slots indicates you must spend two advancements and mark* *both level-up slots in order to take it as an option.*
-
-- *When you choose to* ***multiclass****:* Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around* *this advancement’s slots indicates you must spend two* *advancements and mark both level-up slots in order to take* *it as an option.*
+- *When you choose to* ***multiclass***: Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around* *this advancement’s slots indicates you must spend two* *advancements and mark both level-up slots in order to take* *it as an option.*
 
 STEP THREE DAMAGE THRESHOLDS
 

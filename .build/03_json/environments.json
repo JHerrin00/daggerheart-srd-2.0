@@ -62,7 +62,7 @@
     "type": "Traversal"
   },
   {
-    "description": "An ambush is set to catch an unsuspecting party off -guard.",
+    "description": "An ambush is set to catch an unsuspecting party off-guard.",
     "difficulty": "Special (see \"Relative Strength\")",
     "feature": [
       {
@@ -83,7 +83,7 @@
     "type": "Event"
   },
   {
-    "description": "An ambush is set by the PCs to catch unsuspecting adversaries off -guard.",
+    "description": "An ambush is set by the PCs to catch unsuspecting adversaries off-guard.",
     "difficulty": "Special (see \"Relative Strength\")",
     "feature": [
       {
@@ -124,7 +124,7 @@
       }
     ],
     "impulses": "Break down the barrier between life and death, draw down lightning from the heavens, overclock the machinery",
-    "name": "Workshop",
+    "name": "Alchemist’s Abandoned Workshop",
     "potential_adversaries": "Lab Leftovers (Construct, Minor Fire Elemental, Patchwork Zombie Hulk, Swarm of Rats)",
     "tier": "1",
     "type": "Exploration"
@@ -198,7 +198,7 @@
       {
         "name": "The Climb - Passive",
         "question": "What strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?",
-        "text": "Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:\n\n- **Critical Success:** Tick down 3\n- **Success with Hope:** Tick down 2\n- **Success with Fear:** Tick down 1\n- **Failure with Hope:** No advancement\n- **Failure with Fear:** Tick up 1 When the countdown triggers, the party has made it to the top of the cliff .\n\nWhat strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?"
+        "text": "Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:\n\n- **Critical Success:** Tick down 3\n- **Success with Hope:** Tick down 2\n- **Success with Fear:** Tick down 1\n- **Failure with Hope:** No advancement\n- **Failure with Fear:** Tick up 1 When the countdown triggers, the party has made it to the top of the cliff.\n\nWhat strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?"
       },
       {
         "name": "Pitons Left Behind - Passive",
@@ -224,7 +224,7 @@
       {
         "name": "Room for One More - Passive",
         "question": "What new information or experience does a PC gain from becoming a specter? How can the party reunite the PC's spirit with their flesh? What happens if their ritual goes wrong?",
-        "text": "If a PC marks their last HP while in the graveyard, they become a _Specter_ instead of making a death move_._ While a _Specter_, a PC can communicate with the living but can't interact with the physical world, and they must stay within Close range of their corpse or cross through the veil of death. This condition is cleared when the PC clears a HP.\n\nWhat new information or experience does a PC gain from becoming a specter? How can the party reunite the PC's spirit with their flesh? What happens if their ritual goes wrong?"
+        "text": "If a PC marks their last HP while in the graveyard, they become a _Specter_ instead of making a death move. While a _Specter_, a PC can communicate with the living but can't interact with the physical world, and they must stay within Close range of their corpse or cross through the veil of death. This condition is cleared when the PC clears a HP.\n\nWhat new information or experience does a PC gain from becoming a specter? How can the party reunite the PC's spirit with their flesh? What happens if their ritual goes wrong?"
       },
       {
         "name": "Hallowed Ground - Passive",
@@ -353,7 +353,7 @@
       {
         "name": "What's the Talk of the Town? - Passive",
         "question": "Who has what kind of information? What gossip do the locals start spreading about the PCs?",
-        "text": "A PC can ask the bartender, staff , or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.\n\n- A fascinating rumor with a connection to a PC's background\n- A promising job for the party involving a nearby threat or situation\n- Local folklore that relates to something they've seen\n- Town gossip that hints at a community problem\n\nWho has what kind of information? What gossip do the locals start spreading about the PCs?"
+        "text": "A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.\n\n- A fascinating rumor with a connection to a PC's background\n- A promising job for the party involving a nearby threat or situation\n- Local folklore that relates to something they've seen\n- Town gossip that hints at a community problem\n\nWho has what kind of information? What gossip do the locals start spreading about the PCs?"
       },
       {
         "name": "Sing For Your Supper - Passive",
@@ -589,8 +589,8 @@
       },
       {
         "name": "Dirty Tricks - Action",
-        "question": "What's off -limits in this conflict? How does the adversary's ally bend the rules without breaking them, or break the rules without getting caught? How can the PCs rebalance the scales?",
-        "text": "**Spend a Fear** to have the challenging adversary or one of their allies cheat. A PC can notice their underhanded action with a successful Instinct Reaction Roll and respond in kind.\n\nWhat's off -limits in this conflict? How does the adversary's ally bend the rules without breaking them, or break the rules without getting caught? How can the PCs rebalance the scales?"
+        "question": "What's off-limits in this conflict? How does the adversary's ally bend the rules without breaking them, or break the rules without getting caught? How can the PCs rebalance the scales?",
+        "text": "**Spend a Fear** to have the challenging adversary or one of their allies cheat. A PC can notice their underhanded action with a successful Instinct Reaction Roll and respond in kind.\n\nWhat's off-limits in this conflict? How does the adversary's ally bend the rules without breaking them, or break the rules without getting caught? How can the PCs rebalance the scales?"
       }
     ],
     "impulses": "Focus on one PC, goad them into overcommitting, inflict an embarrassing defeat, sideline the rest of the party",
@@ -724,7 +724,7 @@
     ],
     "impulses": "Make the party prepare, split them up, throw up obstacles, trap them inside, use up their resources",
     "name": "Heist",
-    "potential_adversaries": "Head Guard, Minotaur Wrecker, Secret- Keeper, Spectral Guardian",
+    "potential_adversaries": "Head Guard, Minotaur Wrecker, Secret-Keeper, Spectral Guardian",
     "tier": "2",
     "type": "Event"
   },
@@ -915,7 +915,7 @@
     ],
     "impulses": "Attack their psyches, summon their subconscious fears, warp their perceptions",
     "name": "Astral Realm",
-    "potential_adversaries": "Demon of Despair, Elemental Spark, *Pain Priest*, Psychic Vampires (Head Vampire*, Night Children*)",
+    "potential_adversaries": "Demon of Despair, Elemental Spark, *Pain Priest*, Psychic Vampires (Head Vampire, *Night Children*)",
     "tier": "3",
     "type": "Traversal"
   },
@@ -977,7 +977,7 @@
       {
         "name": "Choking Ash - Reaction",
         "question": "What hallucinations does the ash induce? What incongruous taste does it possess?",
-        "text": "_Countdown (Loop 4)_. When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take **4d6+5** direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll.\n\nWhat hallucinations does the ash induce? What incongruous taste does it possess?"
+        "text": "_Countdown (Loop 6)_. When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take **4d6+5** direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll.\n\nWhat hallucinations does the ash induce? What incongruous taste does it possess?"
       }
     ],
     "impulses": "Beat out an uncanny rhythm for all to follow, corrupt the woods",
@@ -1280,7 +1280,7 @@
       }
     ],
     "impulses": "Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible",
-    "name": "City of Portals",
+    "name": "Convergence, the City of Portals",
     "potential_adversaries": "Power Players (Arch-Necromancer, *Demon Lord Berzug*, *Fire Titan Warlord*, High Seraph, Monarch, Oracle of Doom, *Vampire Lord*), Travelers and Residents (Any)",
     "tier": "4",
     "type": "Social"

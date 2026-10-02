@@ -22,6 +22,4 @@ At first glance, many vampires are indistinguishable from typical members of the
 
 - How does your hunger for blood change you?
 
-- The vampire who sired you still has a hold over you.
-
-What’s their name, and what do they want you to do for them?
+- The vampire who sired you still has a hold over you. What’s their name, and what do they want you to do for them?

@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Destructive:*** −1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress. Name Trait Range Damage Burden
+***Destructive:*** −1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.

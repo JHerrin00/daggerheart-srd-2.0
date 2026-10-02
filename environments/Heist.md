@@ -5,7 +5,7 @@
 
 **Impulses:** Make the party prepare, split them up, throw up obstacles, trap them inside, use up their resources
 
-> **Difficulty:** 14 | **Potential Adversaries:** Head Guard, Minotaur Wrecker, Secret- Keeper, Spectral Guardian
+> **Difficulty:** 14 | **Potential Adversaries:** Head Guard, Minotaur Wrecker, Secret-Keeper, Spectral Guardian
 
 ## FEATURES
 

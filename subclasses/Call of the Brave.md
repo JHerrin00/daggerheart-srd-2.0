@@ -6,9 +6,7 @@ Play the Call of the Brave if you want to use the might of your enemies to fuel 
 
 ***Courage:*** When you fail a roll with Fear, you gain a Hope.
 
-***Battle Ritual:*** Once per long rest, before you attempt something incredibly dangerous or face off against a foe
-
-who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 Stress and gain 2 Hope.
+***Battle Ritual:*** Once per long rest, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 Stress and gain 2 Hope.
 
 **SPECIALIZATION FEATURE**
 

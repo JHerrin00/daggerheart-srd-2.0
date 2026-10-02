@@ -10,7 +10,7 @@
 
 ## FEATURES
 
-***Horde (2d4+5) - Passive:*** When the Legion has marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
+***Horde (2d6+5) - Passive:*** When the Legion has marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
 
 ***Unyielding - Passive:*** The Legion has resistance to physical damage.
 

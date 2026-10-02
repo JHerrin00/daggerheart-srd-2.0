@@ -12,7 +12,7 @@
 
 ## FEATURES
 
-***Horde (2d4) - Passive:*** When the Swarm has marked half or more of its HP, its standard attack deals **2d6** physical damage instead.
+***Horde (2d6) - Passive:*** When the Swarm has marked half or more of its HP, its standard attack deals **2d6** physical damage instead.
 
 ***Blinding Multitude - Passive:*** The Swarm is so thick it blocks the vision of anyone it interacts with. Creatures within Melee range have disadvantage on attacks made against adversaries other than the Swarm.
 

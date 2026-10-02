@@ -6,7 +6,7 @@
 **Motives & Tactics:** Babble in an unknown language, laugh unsettlingly, wield power beyond control
 
 > **Difficulty:** 12 | **Thresholds:** 8/15 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +2 | **Wormwood Staff :** Far | 1d12 mag
+> **ATK:** +2 | **Wormwood Staff:** Far | 1d12 mag
 
 **Experience:** Forbidden Knowledge +2
 

@@ -20,4 +20,6 @@
 
 ***Psychic Scream - Action:*** **Spend a Fear** to have the Titan unleash a mind-shattering onslaught of nightmarish visions from the Outer Realms. Each PC within Far range must make an Instinct Reaction Roll (22). Targets who fail take **4d12** direct magic damage. Targets who succeed must mark a Stress.
 
-***Summon Worshippers - Action:*** **Spend a Fear** to summon **1d4** Cephilith Abominations, which appear within Far range, then choose one to immediately spotlight. ***“It’s Here…” - Evolution:*** When the Titan has marked half their HP, they manifest in their full form, clearing all HP and losing the “Merely a Projection” feature. While the Titan is in this form, a creature who marks HP from the Titan’s standard attack must mark an additional HP.
+***Summon Worshippers - Action:*** **Spend a Fear** to summon **1d4** Cephilith Abominations, which appear within Far range, then choose one to immediately spotlight.
+
+***“It’s Here…” - Evolution:*** When the Titan has marked half their HP, they manifest in their full form, clearing all HP and losing the “Merely a Projection” feature. While the Titan is in this form, a creature who marks HP from the Titan’s standard attack must mark an additional HP.
