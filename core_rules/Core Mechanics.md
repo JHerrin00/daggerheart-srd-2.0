@@ -1,14 +1,14 @@
 # Core Mechanics
 
-FLOW OF THE GAME
+## FLOW OF THE GAME
 
 Daggerheart is a conversation. The GM describes fictional scenarios involving the PCs, and the players take turns describing how their characters react. The goal of every person at the table is to build upon everyone else’s ideas and collaboratively tell a satisfying story. The system facilitates this collaborative process by providing structure to the conversation and mechanics for resolving moments of tension where fate or fortune determine the outcome of events.
 
-PLAYER PRINCIPLES & BEST PRACTICES
+### PLAYER PRINCIPLES & BEST PRACTICES
 
 To get the most out of Daggerheart, we recommend players keep the following principles and practices in mind throughout each session:
 
-PRINCIPLES
+#### PRINCIPLES
 
 - Be a fan of your character and their journey.
 
@@ -22,7 +22,7 @@ PRINCIPLES
 
 - Hold on gently.
 
-BEST PRACTICES
+#### BEST PRACTICES
 
 - Embrace danger.
 
@@ -34,23 +34,23 @@ BEST PRACTICES
 
 *For more information, see the Daggerheart Core Rulebook,* *pages 9 and 108.*
 
-Core Gameplay Loop
+*Core Gameplay Loop*
 
 The **core gameplay loop** is the procedure that drives every scene, both in and out of combat:
 
-STEP 1 SET THE SCENE
+### STEP 1 SET THE SCENE
 
 The GM describes a scenario, establishing the PCs’ surroundings and any dangers, NPCs, or other important details the characters would notice.
 
-STEP 2 ASK AND ANSWER QUESTIONS
+### STEP 2 ASK AND ANSWER QUESTIONS
 
 The players ask clarifying questions to explore the scene more deeply and gather information that could inform their characters’ actions. The GM responds to these questions by giving the players information their characters could easily obtain, or by asking questions of their own to the players. The players also respond to any questions the GM poses to them. In this way, the table builds out the fiction collaboratively.
 
-STEP 3 BUILD ON THE FICTION
+### STEP 3 BUILD ON THE FICTION
 
 As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC’s actions have changed things.
 
-STEP 4 GO BACK TO STEP 1
+### STEP 4 GO BACK TO STEP 1
 
 The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
 
@@ -60,7 +60,7 @@ The **spotlight** is a symbol that represents the table’s attention—and ther
 
 The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an action roll or rolls with Fear, the mechanics prompt the GM to seize the spotlight and make a GM move.
 
-Turn Order & Action Economy
+*Turn Order & Action Economy*
 
 Daggerheart’s turns don’t follow a traditional, rigid format: there is no explicit initiative mechanic and characters don’t have a set number of actions they can take or things they can do before the spotlight passes to someone else. A player with the spotlight describes what their character does, and the spotlight swings to one of the following:
 
@@ -74,15 +74,15 @@ Daggerheart’s turns don’t follow a traditional, rigid format: there is no ex
 
 If your group prefers a more traditional action economy, you can use tokens to track how many times a player has had the spotlight: At the start of a session or scene, each player adds a certain number of tokens (we recommend 3) to their character sheet and removes a token each time they take an action. If the spotlight would swing to someone without any tokens, it swings to someone else instead. Once every player has used all their available tokens, players refill their character sheet with the same number of tokens as before, then continue playing.
 
-MAKING MOVES & TAKING ACTION
+## MAKING MOVES & TAKING ACTION
 
 Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
 
-ACTION ROLLS
+#### ACTION ROLLS
 
 Any move where success would be trivial or failure would be boring automatically succeeds, but any move that’s difficult to accomplish or risky to attempt triggers an **action roll.**
 
-OVERVIEW
+#### OVERVIEW
 
 All action rolls require a pair of d12s called **Duality Dice.** These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear.
 
@@ -106,7 +106,7 @@ After resolving the action roll, the table works together to weave the outcome i
 
 In Daggerheart, every time you roll the dice, the scene changes in some way. There is no such thing as a roll where “nothing happens,” because the fiction constantly evolves based on the successes and failures of the characters.
 
-PROCEDURE
+#### PROCEDURE
 
 The following steps describe in more detail the procedure that all action rolls utilize:
 
@@ -134,7 +134,7 @@ The acting player rolls their entire dice pool and announces the results in the 
 
 The active player and the GM work together, along with the suggestions and support of the rest of the table, to resolve the outcome of the action.
 
-GM MOVES AND ADVERSARY ACTIONS
+### GM MOVES AND ADVERSARY ACTIONS
 
 GMs also make moves. They should consider making a move when a player does one of the following things:
 
@@ -154,7 +154,7 @@ Many adversaries and environments have **Fear Features**, especially powerful or
 
 ***Note:*** *This Fear is in addition to any Fear the GM has* *previously spent to seize the spotlight or activate another* *action or ability.*
 
-ADVERSARY ACTIONS
+### ADVERSARY ACTIONS
 
 When play passes to the GM, the GM can make a GM move to spotlight an adversary. When an adversary takes the spotlight, they do one of the following:
 
@@ -170,7 +170,7 @@ When play passes to the GM, the GM can make a GM move to spotlight an adversary.
 
 The GM can spend additional Fear to spotlight additional adversaries. Once the GM has finished, the spotlight swings back to the PCs.
 
-SPECIAL ROLLS
+### SPECIAL ROLLS
 
 Some rolls have unique specifications or otherwise modify the action roll procedure: trait rolls, Spellcast Rolls, attack rolls, and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
 
@@ -222,7 +222,7 @@ On a successful Tag Team attack roll, both players roll damage and add the total
 
 *Though each player may only initiate one Tag Team Roll per* *session, one PC can be involved in multiple Tag Team Rolls.*
 
-ADVANTAGE & DISADVANTAGE
+### ADVANTAGE & DISADVANTAGE
 
 Some features and effects let you roll with advantage or disadvantage on an action or reaction roll:
 
@@ -242,7 +242,7 @@ There is one exception to this general rule. When a player uses Help an Ally, th
 
 ***For example:*** *Anne makes an Agility Roll with advantage,* *and her allies Bo and Cameron both spend a Hope to Help* *an Ally. All three players roll their own d6 advantage die, but* *Anne only adds the highest result to her total. So if Anne has* *+1 in Agility and rolls a 13 with Hope on her Duality Dice,* *plus a 2 on her advantage die, but Bo and Cameron rolled a 3* *and 4 on their advantage dice, then Anne’s total result would* *be an 18 with Hope (13 + 1 + 4).*
 
-HOPE & FEAR
+### HOPE & FEAR
 
 **Hope** and **Fear** are metacurrencies representing the cosmic forces that shape the events of your table’s story. Hope powers PC abilities and features, while Fear powers the abilities of the GM and the adversaries and environments they control.
 
@@ -274,17 +274,17 @@ Players can spend Hope to:
 
 The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
 
-COMBAT
+## COMBAT
 
 Though Daggerheart relies on the same flow of collaborative storytelling in and out of combat, physical conflicts rely more heavily on several key mechanics related to attacking, maneuvering, and taking damage.
 
-EVASION
+### EVASION
 
 **Evasion** represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target’s Evasion. A PC’s base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
 ***Note:*** *attacks rolled against adversaries use the target’s* *Difficulty instead of Evasion.*
 
-HIT POINTS & DAMAGE THRESHOLDS
+### HIT POINTS & DAMAGE THRESHOLDS
 
 **Hit Points (HP)** represent a character’s ability to withstand physical injury. When a character takes damage, they mark 1 to 3 HP, based on their **damage thresholds:**
 
@@ -310,7 +310,7 @@ Characters can clear Hit Points by taking downtime moves (see: Downtime) or by a
 
 If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.
 
-STRESS
+## STRESS
 
 **Stress** represents how much mental, physical, and emotional strain a character can endure. All classes start with 6 Stress slots. You can increase the number of Stress slots you have available as you level up, to a maximum of 12. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a GM move or to represent the cost, complication, or consequence of an action roll.
 
@@ -320,7 +320,7 @@ When a character must mark 1 or more Stress but can’t, they mark 1 HP instead.
 
 PCs can clear Stress by making downtime moves (see: Downtime). A PC’s maximum Stress is determined by their class, but they can increase it through advancements, abilities, and other effects.
 
-ATTACKING
+## ATTACKING
 
 **ATTACK ROLLS**
 
@@ -366,7 +366,7 @@ Damage dealt simultaneously from multiple sources is always totaled before it’
 
 For example, if a PC with orc ancestry makes a successful attack against a target in Melee range and decides to spend a Hope to use their “Tusks” feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.
 
-MAPS, RANGE, AND MOVEMENT
+## MAPS, RANGE, AND MOVEMENT
 
 You can play Daggerheart using “theater of the mind” or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
 
@@ -418,11 +418,11 @@ Unless stated otherwise, all the targets of a group effect must be within Very C
 
 Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has **cover.** Attacks made through cover are rolled with disadvantage. If the obstruction is total, there is no line of sight.
 
-CONDITIONS
+## CONDITIONS
 
 **Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
 
-STANDARD CONDITIONS
+#### STANDARD CONDITIONS
 
 Daggerheart has three standard conditions:
 
@@ -442,13 +442,13 @@ Some features can apply special or unique conditions, which work as described in
 
 Unless otherwise noted, the same condition can’t be applied more than once to the same target.
 
-TEMPORARY TAGS & SPECIAL CONDITIONS
+#### TEMPORARY TAGS & SPECIAL CONDITIONS
 
 The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
 
 **Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
 
-DOWNTIME
+## DOWNTIME
 
 Between conflicts, the party can take a **rest** to recover expended resources and deepen their bonds. During a rest, each PC can make up to two downtime moves.
 
@@ -486,7 +486,7 @@ At the end of a long rest, any features or effects with a limited number of uses
 
 On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 1d4 + the number of PCs, and they can advance a **long-term countdown** of their choice.
 
-DEATH
+## DEATH
 
 When a PC marks their last Hit Point, they must make a **death move** by choosing one of the following options:
 
@@ -498,7 +498,7 @@ When a PC marks their last Hit Point, they must make a **death move** by choosin
 
 If your character dies, work with the GM before the next session to create a new character at the current level of the rest of the party.
 
-ADDITIONAL RULES
+## ADDITIONAL RULES
 
 *The following rules apply to many aspects of the game.*
 
@@ -534,7 +534,7 @@ Unless an effect states otherwise, you can’t spend Hope or mark Stress multipl
 
 If a feature allows you to affect a roll after the result has been totaled, you can use it after the GM declares whether the roll succeeds or fails, but not after the consequences unfold or another roll is made.
 
-LEVELING UP
+## LEVELING UP
 
 Your party levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
 
@@ -550,7 +550,7 @@ Daggerheart has 10 PC levels divided into 4 tiers:
 
 Your tier affects your damage thresholds, tier achievements, and access to advancements.
 
-STEP ONE TIER ACHIEVEMENTS
+### STEP ONE TIER ACHIEVEMENTS
 
 Take any applicable tier **achievements**
 
@@ -560,7 +560,7 @@ Take any applicable tier **achievements**
 
 - At level 8, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 
-STEP TWO ADVANCEMENTS
+### STEP TWO ADVANCEMENTS
 
 Choose any two **advancements** with at least one unmarked slot from your tier or below. Options with multiple slots can be chosen more than once. When you choose an advancement, mark one of its slots.
 
@@ -582,15 +582,15 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 
 - *When you choose to* ***multiclass***: Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around* *this advancement’s slots indicates you must spend two* *advancements and mark both level-up slots in order to take* *it as an option.*
 
-STEP THREE DAMAGE THRESHOLDS
+### STEP THREE DAMAGE THRESHOLDS
 
 Increase all damage thresholds by 1.
 
-STEP FOUR DOMAIN CARDS
+### STEP FOUR DOMAIN CARDS
 
 Acquire a new domain card at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
 
-MULTICLASSING
+## MULTICLASSING
 
 Starting at level 5, you can choose multiclassing as an option when leveling up. When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its class feature. Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different Spellcast traits, you can choose which one to apply when making a Spellcast roll.
 

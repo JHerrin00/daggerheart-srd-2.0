@@ -2,7 +2,7 @@
 
 These three sections provide a foundation to help you get the most out of this game. The “GM Principles” are your guiding star—when in doubt, return to these principles.
 
-GM PRINCIPLES
+#### GM PRINCIPLES
 
 **BEGIN AND END WITH THE FICTION**
 
@@ -32,7 +32,7 @@ GM PRINCIPLES
 
 *Don’t worry if you need to abandon or alter something that* *came before.*
 
-GM PRACTICES
+#### GM PRACTICES
 
 **CULTIVATE A CURIOUS TABLE**
 
@@ -78,7 +78,7 @@ GM PRACTICES
 
 *When framing a scene, decide which beats should be savored* *and which shouldn’t linger.*
 
-PITFALLS TO AVOID
+#### PITFALLS TO AVOID
 
 **UNDERMINING THE HEROES**
 
@@ -106,9 +106,9 @@ Spend Fear when you have the opportunity. The players will always generate more.
 
 *For more in-depth GM guidance, see pg. 140 of the* *Daggerheart Core Rulebook.*
 
-CORE GM MECHANICS
+## CORE GM MECHANICS
 
-ROLLING DICE
+#### ROLLING DICE
 
 The GM has no Duality Dice; instead, they roll a single d20 called the GM’s Die.
 

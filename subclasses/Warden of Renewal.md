@@ -42,7 +42,7 @@ Instinct
 
 - What affectionate nickname have you given me?
 
-BEASTFORM OPTIONS
+#### BEASTFORM OPTIONS
 
 When you use your “Beastform” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
@@ -60,7 +60,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 - **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they’re also fragile, making you more likely to drop out of Beastform.
 
-TIER 1
+##### TIER 1
 
 **AGILE SCOUT**
 
@@ -134,7 +134,7 @@ TIER 1
 
 ***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily *Restrain* a target within Close range by succeeding on a Finesse Roll against them.
 
-TIER 2
+##### TIER 2
 
 **ARMORED SENTRY**
 
@@ -208,7 +208,7 @@ TIER 2
 
 ***Hollow Bones:*** You gain a −2 penalty to your damage thresholds.
 
-TIER 3
+##### TIER 3
 
 **GREAT PREDATOR**
 
@@ -278,7 +278,7 @@ TIER 3
 
 ***Hybrid Features:*** To transform into this creature, **mark an additional Stress.** Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
 
-TIER 4
+##### TIER 4
 
 **MASSIVE BEHEMOTH**
 

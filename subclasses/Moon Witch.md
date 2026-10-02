@@ -22,15 +22,12 @@ Unless you **mark a Stress** to maintain your *Glamour*, it drops when you mark 
 
 ***Lunar Phases:*** At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.
 
-Roll Phase Effect
-
-**1** New **Spend a Hope** to negate Minor damage.
-
-**2–3** Waxing +2 to damage rolls
-
-**4** Full +3 to damage thresholds
-
-**5–6** Waning +1 to Evasion
+| Roll | Phase | Effect |
+| --- | --- | --- |
+| **1** | New | **Spend a Hope** to negate Minor damage. |
+| **2–3** | Waxing | +2 to damage rolls |
+| **4** | Full | +3 to damage thresholds |
+| **5–6** | Waning | +1 to Evasion |
 
 Once per rest, you can **spend a Hope** to increase the value of this die by one. If you increase the value of a 6, it becomes a 1.
 

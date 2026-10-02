@@ -4,7 +4,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 ***Note:*** *You can fill in your character’s name, pronouns, and* *Character Description details at any point of the character* *creation process.*
 
-STEP 1
+#### STEP 1
 
 **Choose a Class and Subclass. Classes** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are 13 classes in this SRD: Assassin, Bard, Brawler, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warlock, Warrior, Witch, and Wizard.
 
@@ -16,7 +16,7 @@ STEP 1
 
   **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
 
-STEP 2
+#### STEP 2
 
 **Choose Your Heritage.** Your character’s **heritage** combines two elements: **ancestry** and **community.**
 
@@ -24,7 +24,7 @@ STEP 2
 
 - Your character’s **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Duneborne, Freeborne, Frostborne, Hearthborne, Highborne, Loreborne, Orderborne, Reborne, Ridgeborne, Seaborne, Slyborne, Underborne, Warborne, Wanderborne, Wildborne.
 
-STEP 3
+#### STEP 3
 
 **Assign Character Traits.** Your character has six traits that represent their physical, mental, and social aptitude:
 
@@ -54,7 +54,7 @@ STEP 3
 
 When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, −1 to your character’s traits in any order you wish.
 
-STEP 4
+#### STEP 4
 
 **Record Additional Character Information.**
 
@@ -68,7 +68,7 @@ STEP 4
 
 - **Hope** is a metacurrency that fuels special moves and certain abilities or features. Each PC starts with 2 Hope; mark these in the Hope field of your character sheet.
 
-STEP 5
+#### STEP 5
 
 **Choose Your Starting Equipment.**
 
@@ -96,13 +96,13 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 - Any other GM-approved items you’d like to have at the start of the game
 
-STEP 6
+#### STEP 6
 
 **Create Your Background.** Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
 
 *Note: Your background has no explicit mechanical effect,* *but it greatly affects the character you’ll play and the prep* *the GM will do. Throughout character creation, you can* *adjust choices you made in earlier steps to better reflect this* *background as your character takes shape. If you wish, you* *can leave your character’s past more ambiguous for the time* *being and discover their backstory through play.*
 
-STEP 7
+#### STEP 7
 
 **Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to an action or reaction roll.
 
@@ -110,7 +110,7 @@ STEP 7
 
 - There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and* *“Highly Skilled” are too broad, because they could be applied* *to virtually any roll. Likewise, “Supersonic Flight” and* *“Invulnerable” imply game-breaking special abilities.*
 
-EXAMPLE EXPERIENCES
+##### EXAMPLE EXPERIENCES
 
 **Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty* *Hunter, Chef to the Royal Family, Circus Performer,* *Con Artist, Fallen Monarch, Field Medic, High Priestess,* *Merchant, Noble, Pirate, Politician, Runaway, Scholar,* *Sellsword, Soldier, Storyteller, Thief, World Traveler*
 
@@ -122,11 +122,11 @@ EXAMPLE EXPERIENCES
 
 **Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, Hold the Line, I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, Knowledge Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
 
-STEP 8
+#### STEP 8
 
 **Choose Domain Cards.** Your class has access to two of the ten domains. Choose two level one cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
-STEP 9
+#### STEP 9
 
 **Create Your Connections.** Connections are the relationships between the PCs. To create connections, follow these steps:
 

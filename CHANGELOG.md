@@ -3,7 +3,8 @@
 ## [1.0.1] - 2026-10-01
 
 Corrections found by checking every file against a character-level extraction of
-the SRD 2.0 PDF, cross-checked with OCR of the page images.
+the SRD 2.0 PDF, cross-checked with OCR of the page images, and by comparing headings,
+lists, tables and emphasis with the PDF layout.
 
 ### Fixed
 
@@ -28,6 +29,17 @@ the SRD 2.0 PDF, cross-checked with OCR of the page images.
   (for example, Arcana-touched, the ancestry descriptions, the Duality Dice outcomes in Core Mechanics).
 - **Markdown and spacing.** 48 fixes: asterisks that showed up in places they didn't belong, headings that did not render, stray spaces
   ("Staff :", "quaff s", "off -guard"), and leftover PDF tabs and bullets.
+- **Headings.** 101 section headings were plain lines of text and now render as headings,
+  at levels that follow the PDF's heading styles. Most are in the core rules; the rest are in
+  Druid, Ranger, Brawler and their subclasses.
+- **Tables.** 12 tables had been flattened into loose lines and are Markdown tables again:
+  Fear per scene, the six action difficulty tables (Agility to Knowledge), dynamic countdown
+  advancement and average costs in Making Moves, the Witch's commune results, the Moon Witch's
+  lunar phases, and the Warlock's sphere of influence examples.
+- **Emphasis.** "Core Gameplay Loop" and "Turn Order & Action Economy" are italic as printed,
+  and Striking Serpent's "Mark a Stress" is bold.
+- **Stray text.** Removed "ADVERSARIES AND" (the first line of the next chapter's title) from
+  the end of Making Moves.
 
 ### Added
 

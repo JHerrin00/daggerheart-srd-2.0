@@ -26,53 +26,16 @@ Those who’ve traded their lives—or perhaps even their souls—to an otherwor
 
 When building a warlock, choose their patron’s sphere of influence from the list below or work with the GM to make your own.
 
-*Ambition*
-
-*Artists*
-
-*Chaos*
-
-*Darkness*
-
-*Death*
-
-*Gamblers*
-
-*Honor*
-
-*Justice*
-
-*Leaders*
-
-*Love*
-
-*Mercy*
-
-*Mischief*
-
-*Nature*
-
-*Protectors*
-
-*Revenge*
-
-*Scholars*
-
-*Secrets*
-
-*Soldiers*
-
-*Strength*
-
-*Travelers*
-
-*Tricksters*
-
-*Truth*
-
-*War*
-
-*Wisdom*
+|  |  |  |
+| --- | --- | --- |
+| *Ambition* | *Leaders* | *Secrets* |
+| *Artists* | *Love* | *Soldiers* |
+| *Chaos* | *Mercy* | *Strength* |
+| *Darkness* | *Mischief* | *Travelers* |
+| *Death* | *Nature* | *Tricksters* |
+| *Gamblers* | *Protectors* | *Truth* |
+| *Honor* | *Revenge* | *War* |
+| *Justice* | *Scholars* | *Wisdom* |
 
 ### SUBCLASSES
 

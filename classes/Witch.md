@@ -20,13 +20,11 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 ***Commune:*** Once per long rest during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.
 
-Roll Effect
-
-1–3 You taste a flavor, smell a scent, or feel a sensation relevant to the answer.
-
-4–5 You hear sounds or see a vision relevant to the answer.
-
-6 You psychically experience a scene relevant to the answer as if you were there.
+| Roll | Effect |
+| --- | --- |
+| 1–3 | You taste a flavor, smell a scent, or feel a sensation relevant to the answer. |
+| 4–5 | You hear sounds or see a vision relevant to the answer. |
+| 6 | You psychically experience a scene relevant to the answer as if you were there. |
 
 ### SUBCLASSES
 
