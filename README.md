@@ -46,16 +46,27 @@ The Markdown follows the PDF text. I have listed the places where it differs bel
 
 **Corrections**
 
-- Typos and formatting slips from the PDF extraction are fixed, for example "terain" is now "terrain" in Terrible Lizard. 
+- Typos and formatting slips from the PDF extraction are fixed, for example "terain" is now "terrain" in Terrible Lizard. The full list is in [CHANGELOG.md](CHANGELOG.md).
 
 **Consolidations**
 
 - The Combat Wheelchair rules and its twelve wheelchairs are one file, `weapons/Combat Wheelchair.md`, with a table for each tier.
 
+**Left out**
+
+These parts of the SRD are not in the repository:
+
+- Using Adversaries (adversary stat block anatomy, example features, benchmarks and the list of adversaries by tier, pages 93 to 96).
+- Using Environments and Adapting Environments (pages 158 and 159).
+- Additional GM Guidance (page 183).
+- The Witherwild Campaign Frame (pages 184 to 189).
+- Supplemental Campaign Mechanics (pages 190 to 205).
+
 ## License & Legal
 
-This repository includes materials from the Daggerheart System Reference Document 2.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at [daggerheart.com](https://www.daggerheart.com/). There are minor modifications to format and structure.
+This repository includes materials from the Daggerheart System Reference Document 2.0, © Critical Role, LLC. All rights reserved. The SRD was created by Darrington Press and is licensed under the [Darrington Press Community Gaming (DPCGL) License](https://darringtonpress.com/license/). The original document is available at [daggerheart.com](https://www.daggerheart.com/).
 
-Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
+This repository modifies the SRD. It converts the text to Markdown and JSON, corrects extraction errors, renames the Witch subclasses, consolidates the Combat Wheelchair tables into one file, and leaves out the parts listed under Changes from the SRD text. There are no previous modifications by others.
 
-For full license terms, see: [https://www.daggerheart.com/](https://www.daggerheart.com/)
+Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is unofficial. It is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
+
