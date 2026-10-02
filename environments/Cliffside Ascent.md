@@ -15,7 +15,7 @@
 - **Success with Hope:** Tick down 2
 - **Success with Fear:** Tick down 1
 - **Failure with Hope:** No advancement
-- **Failure with Fear:** Tick up 1 When the countdown triggers, the party has made it to the top of the cliff . *What strange formations are the stones arranged in? What ominous* *warnings did previous adventurers leave?*
+- **Failure with Fear:** Tick up 1 When the countdown triggers, the party has made it to the top of the cliff. *What strange formations are the stones arranged in? What ominous* *warnings did previous adventurers leave?*
 
 ***Pitons Left Behind - Passive:*** Previous climbers left behind large metal rods that climbers can use to aid their ascent. If a PC using the pitons fails an action roll to climb, they can mark a Stress instead of ticking the countdown up. *What do the shape and material of these pitons tell you about the* *previous climbers? How far apart are they from one another?*
 

@@ -12,7 +12,7 @@
 
 ## FEATURES
 
-***Horde (2d4+5) - Passive:*** When the Legion has marked half or more of its HP, its standard attack deals **2d6+5** magic damage instead.
+***Horde (2d6+5) - Passive:*** When the Legion has marked half or more of its HP, its standard attack deals **2d6+5** magic damage instead.
 
 ***Necroplasmic - Passive:*** The Legion is immune to physical damage and takes double magic damage.
 

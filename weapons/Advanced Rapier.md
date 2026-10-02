@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. Name Trait Range Damage Burden
+***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.

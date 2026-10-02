@@ -22,7 +22,7 @@ A Markdown and JSON version of the Daggerheart System Reference Document 2.0 (20
 | `items/` | 120 |
 | `subclasses/` | 26 |
 | `transformations/` | 6 |
-| `weapons/` | 312 (Combat Wheelchair is one file holding 12 wheelchairs) |
+| `weapons/` | 315 (Combat Wheelchair is one file holding 12 wheelchairs) |
 
 `.build/03_json/` contains one JSON file per category, written from the Markdown in these folders. Two details of the JSON follow from the SRD itself:
 

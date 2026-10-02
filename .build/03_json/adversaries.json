@@ -350,15 +350,15 @@
       },
       {
         "name": "Terrifying - Passive",
-        "text": "When a PC fails an attack roll against the Queen, you gain a Fear_._"
+        "text": "When a PC fails an attack roll against the Queen, you gain a Fear."
       },
       {
         "name": "Den Mother - Action",
-        "text": "Once per scene, **spend 2 Fear** to summon up to two Darkweave adversaries (other than Darkweave Queens), who appear within Close range and immediately take the spotlight_._"
+        "text": "Once per scene, **spend 2 Fear** to summon up to two Darkweave adversaries (other than Darkweave Queens), who appear within Close range and immediately take the spotlight."
       },
       {
         "name": "Quicker Than She Looks - Action",
-        "text": "**Spend a Fear** to move up to Far range and make a standard attack with advantage_._"
+        "text": "**Spend a Fear** to move up to Far range and make a standard attack with advantage."
       },
       {
         "name": "Darkfang Envenomation - Reaction",
@@ -413,7 +413,7 @@
         "text": "When the Swarmlings have marked half or more of their HP, their standard attack deals **1d4** physical damage instead."
       },
       {
-        "name": "\"Get 'em Off , Get 'em Off !\" - Reaction",
+        "name": "\"Get 'em Off, Get 'em Off!\" - Reaction",
         "text": "When an attack from the Swarmlings causes a target to mark HP, you can **mark a Stress** to make the target temporarily _Covered in Spiders._ While _Covered_ _in Spiders,_ the target must roll a **d6** when they make an action roll. On a result of 4 or higher, they must mark a Stress or you gain a Fear."
       }
     ],
@@ -753,7 +753,7 @@
     "atk": "+2",
     "attack": "Staff",
     "damage": "1d6+2 mag",
-    "description": "A staff -wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.",
+    "description": "A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.",
     "difficulty": "13",
     "experience": "Magical Knowledge +2",
     "feature": [
@@ -837,7 +837,7 @@
     "feature": [
       {
         "name": "Toxic Aura - Passive",
-        "text": "The Harpy emits a foul stench that renders all non-Harpies _Vulnerable_ while within Very Close range_._"
+        "text": "The Harpy emits a foul stench that renders all non-Harpies _Vulnerable_ while within Very Close range."
       },
       {
         "name": "Swooping Attack - Action",
@@ -1239,7 +1239,11 @@
       },
       {
         "name": "Flail Swipe - Action",
-        "text": "**Mark a Stress** to make an attack against all targets in front of the Troll within Very Close range. Targets the Troll succeeds against take **2d8+2** physical damage. _Enraged Mountain Troll - Evolution:_ The Troll loses their \"Stolen Armor\" and \"Flail Swipe\" features, then gains a +1 bonus to their Difficulty. Additionally, they gain the \"Double Swipe\" feature and replace \"Skull Flail\" with the following standard attack: **Claw Swipe:** Very Close | 1d10+3 phy"
+        "text": "**Mark a Stress** to make an attack against all targets in front of the Troll within Very Close range. Targets the Troll succeeds against take **2d8+2** physical damage."
+      },
+      {
+        "name": "Enraged Mountain Troll - Evolution",
+        "text": "The Troll loses their \"Stolen Armor\" and \"Flail Swipe\" features, then gains a +1 bonus to their Difficulty. Additionally, they gain the \"Double Swipe\" feature and replace \"Skull Flail\" with the following standard attack: **Claw Swipe:** Very Close | 1d10+3 phy"
       },
       {
         "name": "Double Swipe - Action",
@@ -2206,7 +2210,7 @@
       },
       {
         "name": "Splutch! - Reaction",
-        "text": "When a PC within Melee range of the Creation makes a weapon attack against it, roll a **d6**. On a 5 or higher, the attacker's weapon gets stuck in the Creation and can be removed only with a successful Strength Roll (15)_._"
+        "text": "When a PC within Melee range of the Creation makes a weapon attack against it, roll a **d6**. On a 5 or higher, the attacker's weapon gets stuck in the Creation and can be removed only with a successful Strength Roll (15)."
       },
       {
         "name": "Smothering Grapple - Reaction",
@@ -2492,7 +2496,7 @@
     "difficulty": "13",
     "feature": [
       {
-        "name": "Horde (1d4+3) - Passive",
+        "name": "Horde (1d6+3) - Passive",
         "text": "When the Squadron has marked half or more of their HP, their standard attack deals **1d6+3** physical damage instead."
       },
       {
@@ -2522,7 +2526,7 @@
     "experience": "Intrusion +2",
     "feature": [
       {
-        "name": "Minion (4) - Passive",
+        "name": "Minion (6) - Passive",
         "text": "The Assassin is defeated when they take any damage. For every 6 damage a PC deals to the Assassin, defeat an additional Minion within range the attack would succeed against."
       },
       {
@@ -2646,7 +2650,7 @@
     "feature": [
       {
         "name": "Petrify - Action",
-        "text": "**Spend a Fear** to force a PC within Far range to make an Instinct Reaction Roll. On a success, the target marks a Stress. On a failure, the target becomes _Stiff_ . If the target is already _Stiff ,_ they become _Petrified._ While _Stiff_ , the PC must mark a Stress each time they act until they take a rest or the Basilisk is defeated. While _Petrified_, the PC can't act. The _Petrified_ condition can be cleared only by applying Basilisk saliva to the target."
+        "text": "**Spend a Fear** to force a PC within Far range to make an Instinct Reaction Roll. On a success, the target marks a Stress. On a failure, the target becomes _Stiff_. If the target is already _Stiff_, they become _Petrified._ While _Stiff_, the PC must mark a Stress each time they act until they take a rest or the Basilisk is defeated. While _Petrified_, the PC can't act. The _Petrified_ condition can be cleared only by applying Basilisk saliva to the target."
       },
       {
         "name": "CRONCH! - Action",
@@ -2700,7 +2704,7 @@
     "atk": "+3",
     "attack": "Tooth & Claw",
     "damage": "2d10+2 phy",
-    "description": "A veteran commander who quaff s magic elixirs to change into a beast and lead their packmates on a hunt.",
+    "description": "A veteran commander who quaffs magic elixirs to change into a beast and lead their packmates on a hunt.",
     "difficulty": "14",
     "experience": "Hunt +3, Keen Senses +2",
     "feature": [
@@ -2857,7 +2861,7 @@
     "difficulty": "12",
     "feature": [
       {
-        "name": "Minion (4) - Passive",
+        "name": "Minion (6) - Passive",
         "text": "The Conscript is defeated when they take any damage. For every 6 damage a PC deals to the Conscript, defeat an additional Minion within range the attack would succeed against."
       },
       {
@@ -2963,7 +2967,7 @@
     "difficulty": "13",
     "feature": [
       {
-        "name": "Minion (4) - Passive",
+        "name": "Minion (6) - Passive",
         "text": "The Initiate is defeated when they take any damage. For every 6 damage a PC deals to the Initiate, defeat an additional Minion within range the attack would succeed against."
       },
       {
@@ -3092,7 +3096,7 @@
       }
     ],
     "hp": "5",
-    "motives_and_tactics": "Exploit an opening, get some distance, knock enemies off -balance, strike from above",
+    "motives_and_tactics": "Exploit an opening, get some distance, knock enemies off-balance, strike from above",
     "name": "Dragon Knight",
     "range": "Very Close",
     "stress": "3",
@@ -3381,7 +3385,7 @@
     "experience": "Fly +2, Swarm +2",
     "feature": [
       {
-        "name": "Horde (1d4+1) - Passive",
+        "name": "Horde (1d6+1) - Passive",
         "text": "When the Flock has marked half or more of its HP, its standard attack deals **1d6+1** magic damage instead."
       },
       {
@@ -3462,12 +3466,12 @@
     "atk": "-1",
     "attack": "Neuro Spore",
     "damage": "4 mag",
-    "description": "A halfling-sized mushroom creature that defends itself from attackers with tiny puff s of neurotoxic spores.",
+    "description": "A halfling-sized mushroom creature that defends itself from attackers with tiny puffs of neurotoxic spores.",
     "difficulty": "13",
     "experience": "Darkness +3",
     "feature": [
       {
-        "name": "Minion (4) - Passive",
+        "name": "Minion (6) - Passive",
         "text": "The Sporeling is defeated when it takes any damage. For every 6 damage a PC deals to the Sporeling, the PC defeats an additional Minion within range the attack would succeed against."
       },
       {
@@ -3687,7 +3691,7 @@
     "difficulty": "13",
     "feature": [
       {
-        "name": "Minion (3) - Passive",
+        "name": "Minion (7) - Passive",
         "text": "The Recruit is defeated when they take any damage. For every 7 damage a PC deals to the Recruit, defeat an additional Minion within range the attack would succeed against."
       },
       {
@@ -4389,7 +4393,7 @@
       },
       {
         "name": "Fallen Hounds - Reaction",
-        "text": "Once per scene, when the Secret- Keeper marks 2 or more HP, you can **mark a Stress** to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted."
+        "text": "Once per scene, when the Secret-Keeper marks 2 or more HP, you can **mark a Stress** to summon a Demonic Hound Pack, which appears at Close range and is immediately spotlighted."
       }
     ],
     "hp": "7",
@@ -5895,7 +5899,7 @@
     "experience": "Terrorize +3",
     "feature": [
       {
-        "name": "Horde (2d4+2) - Passive",
+        "name": "Horde (2d6+2) - Passive",
         "text": "When the Night Children have marked half or more of their HP, their standard attack deals **2d6+2** physical damage instead."
       },
       {
@@ -5956,7 +5960,11 @@
       },
       {
         "name": "Fireseed - Reaction",
-        "text": "The Phoenix bleeds magic fire. When the Phoenix marks a HP, summon one Minor Fire Elemental within Very Close range. _Resurrection - Evolution:_ When the Phoenix is defeated, it becomes a cloud of ash that blows away to reveal a Smoldering Egg. The Egg is immune to all damage and has a heat aura that deals **3d4** direct magic damage to anyone who touches it. The Egg hatches into a new Phoenix, with all HP and Stress cleared, in 7 days."
+        "text": "The Phoenix bleeds magic fire. When the Phoenix marks a HP, summon one Minor Fire Elemental within Very Close range."
+      },
+      {
+        "name": "Resurrection - Evolution",
+        "text": "When the Phoenix is defeated, it becomes a cloud of ash that blows away to reveal a Smoldering Egg. The Egg is immune to all damage and has a heat aura that deals **3d4** direct magic damage to anyone who touches it. The Egg hatches into a new Phoenix, with all HP and Stress cleared, in 7 days."
       }
     ],
     "hp": "6",
@@ -6016,7 +6024,11 @@
       },
       {
         "name": "Crushing Grasp - Reaction",
-        "text": "When the Roc makes a successful standard attack, you can **mark a Stress** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and _Restraining_ them until they succeed on a Strength Roll (20). _Nest Warden - Evolution:_ When the Roc's eggs are threatened, it gains the following features:"
+        "text": "When the Roc makes a successful standard attack, you can **mark a Stress** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and _Restraining_ them until they succeed on a Strength Roll (20)."
+      },
+      {
+        "name": "Nest Warden - Evolution",
+        "text": "When the Roc's eggs are threatened, it gains the following features:"
       },
       {
         "name": "Wrathful - Passive",
@@ -6252,7 +6264,7 @@
     "difficulty": "14",
     "feature": [
       {
-        "name": "Minion (4) - Passive",
+        "name": "Minion (6) - Passive",
         "text": "The Sapling is defeated when they take any damage. For every 6 damage a PC deals to the Sapling, defeat an additional Minion within range the attack would succeed against."
       },
       {
@@ -6350,7 +6362,7 @@
     "experience": "Blood +3",
     "feature": [
       {
-        "name": "Horde (2d4) - Passive",
+        "name": "Horde (2d6) - Passive",
         "text": "When the Swarm has marked half or more of its HP, its standard attack deals **2d6** physical damage instead."
       },
       {
@@ -6427,7 +6439,11 @@
       },
       {
         "name": "Melt into Shadow - Reaction",
-        "text": "When a PC would deal damage to the Vampire Lord, you can **spend a Fear** to roll a **d6**. On a result of 5 or higher, negate the damage, then teleport the Vampire Lord to a point within Far range. _Hellwing - Evolution:_ When the Vampire Lord marks half their HP, they transform into the Hellwing: a towering, demonic bat creature. They gain the \"On Crimson Wings\" and \"Bloodbath\" features and replace their standard attack with the following standard attack: **Claws:** Close | 3d12+6 phy"
+        "text": "When a PC would deal damage to the Vampire Lord, you can **spend a Fear** to roll a **d6**. On a result of 5 or higher, negate the damage, then teleport the Vampire Lord to a point within Far range."
+      },
+      {
+        "name": "Hellwing - Evolution",
+        "text": "When the Vampire Lord marks half their HP, they transform into the Hellwing: a towering, demonic bat creature. They gain the \"On Crimson Wings\" and \"Bloodbath\" features and replace their standard attack with the following standard attack: **Claws:** Close | 3d12+6 phy"
       },
       {
         "name": "On Crimson Wings - Passive",
@@ -6509,7 +6525,7 @@
     "atk": "+3",
     "attack": "Magitech Cannon",
     "damage": "3d10+3 mag",
-    "description": "A massive living turret with reinforced armor and twelve piston- driven mechanical legs.",
+    "description": "A massive living turret with reinforced armor and twelve piston-driven mechanical legs.",
     "difficulty": "16",
     "feature": [
       {
@@ -6908,7 +6924,11 @@
       },
       {
         "name": "Summon Worshippers - Action",
-        "text": "**Spend a Fear** to summon **1d4** Cephilith Abominations, which appear within Far range, then choose one to immediately spotlight. _\"It's Here…\" - Evolution:_ When the Titan has marked half their HP, they manifest in their full form, clearing all HP and losing the \"Merely a Projection\" feature. While the Titan is in this form, a creature who marks HP from the Titan's standard attack must mark an additional HP."
+        "text": "**Spend a Fear** to summon **1d4** Cephilith Abominations, which appear within Far range, then choose one to immediately spotlight."
+      },
+      {
+        "name": "\"It's Here…\" - Evolution",
+        "text": "When the Titan has marked half their HP, they manifest in their full form, clearing all HP and losing the \"Merely a Projection\" feature. While the Titan is in this form, a creature who marks HP from the Titan's standard attack must mark an additional HP."
       }
     ],
     "hp": "10",
@@ -7030,7 +7050,7 @@
       },
       {
         "name": "Horrifying - Reaction",
-        "text": "When a PC fails an attack against Berzug, you gain a Fear_._"
+        "text": "When a PC fails an attack against Berzug, you gain a Fear."
       }
     ],
     "hp": "12",
@@ -7249,7 +7269,7 @@
       },
       {
         "name": "Colossus Crafter - Passive",
-        "text": "_Countdown (4)_. When the Warlord enters the scene, activate the countdown. It ticks down when the Warlord is spotlighted. When it triggers, summon the Gargantuan War Machine, which appears at the edge of the battlefield and immediately takes the spotlight."
+        "text": "_Countdown (6)_. When the Warlord enters the scene, activate the countdown. It ticks down when the Warlord is spotlighted. When it triggers, summon the Gargantuan War Machine, which appears at the edge of the battlefield and immediately takes the spotlight."
       },
       {
         "name": "Release the Hounds - Action",
@@ -7320,7 +7340,7 @@
     "experience": "Tactics +2",
     "feature": [
       {
-        "name": "Horde (2d4+5) - Passive",
+        "name": "Horde (2d6+5) - Passive",
         "text": "When the Legion has marked half or more of its HP, its standard attack deals **2d6+5** magic damage instead."
       },
       {
@@ -7420,7 +7440,7 @@
     "stress": "6",
     "thresholds": "24/48",
     "tier": "4",
-    "type": "Horde (4/HP)"
+    "type": "Horde (6/HP)"
   },
   {
     "atk": "+2",
@@ -7931,7 +7951,11 @@
       },
       {
         "name": "Elemental Archon - Action",
-        "text": "**Mark a Stress** to roll a **d4**. Adonix activates the corresponding effect: 1. _Fire Beam._ Adonix manifests a beam of elemental fire with a Very Close width from themself to the edge of the battlefield. Each target in the beam's path must make an Agility Reaction Roll. Targets who fail take Severe damage. Targets who succeed take Minor damage. 2. _Thunderclap._ All creatures within Far range must mark a Stress and become _Vulnerable_ until they succeed on an attack roll or the Demiurge is defeated. 3. _Lightning Bolt._ Make an attack against a target within Very Far range, dealing **4d8** magic damage on a success. If all results are even, make the same attack against a different target, repeating the cycle until you roll an odd result or run out of targets. 4. _Ice Storm._ Each PC within Close range must succeed on a Strength Reaction Roll or mark **1d4** Stress and become _Restrained_ until they spend a Hope to escape. _Alpha to Omega - Evolution:_ When Adonix is defeated, they resurrect in Omega form with all HP and Stress cleared. Each PC within Very Far range must succeed on a Presence Reaction Roll or lose a Hope. You gain a Fear for each Hope lost in this way. Adonix gains the following features in this form:"
+        "text": "**Mark a Stress** to roll a **d4**. Adonix activates the corresponding effect: 1. _Fire Beam._ Adonix manifests a beam of elemental fire with a Very Close width from themself to the edge of the battlefield. Each target in the beam's path must make an Agility Reaction Roll. Targets who fail take Severe damage. Targets who succeed take Minor damage. 2. _Thunderclap._ All creatures within Far range must mark a Stress and become _Vulnerable_ until they succeed on an attack roll or the Demiurge is defeated. 3. _Lightning Bolt._ Make an attack against a target within Very Far range, dealing **4d8** magic damage on a success. If all results are even, make the same attack against a different target, repeating the cycle until you roll an odd result or run out of targets. 4. _Ice Storm._ Each PC within Close range must succeed on a Strength Reaction Roll or mark **1d4** Stress and become _Restrained_ until they spend a Hope to escape."
+      },
+      {
+        "name": "Alpha to Omega - Evolution",
+        "text": "When Adonix is defeated, they resurrect in Omega form with all HP and Stress cleared. Each PC within Very Far range must succeed on a Presence Reaction Roll or lose a Hope. You gain a Fear for each Hope lost in this way. Adonix gains the following features in this form:"
       },
       {
         "name": "Forsaken - Action",
@@ -8196,7 +8220,7 @@
     "experience": "Dragon Bond +2",
     "feature": [
       {
-        "name": "Horde (2d4+5) - Passive",
+        "name": "Horde (2d6+5) - Passive",
         "text": "When the Wyrmlings have marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead."
       },
       {
@@ -8300,7 +8324,7 @@
     "difficulty": "17",
     "feature": [
       {
-        "name": "Horde (2d4+5) - Passive",
+        "name": "Horde (2d6+5) - Passive",
         "text": "When the Legion has marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead."
       },
       {

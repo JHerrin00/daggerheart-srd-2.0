@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Freezing:*** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily *Restrained.* Name Trait Range Damage Burden
+***Freezing:*** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily *Restrained.*

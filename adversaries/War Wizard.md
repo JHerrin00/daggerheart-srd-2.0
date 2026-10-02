@@ -6,7 +6,7 @@
 **Motives & Tactics:** Develop new spells, seek power, shatter formations
 
 > **Difficulty:** 16 | **Thresholds:** 11/23 | **HP:** 5 | **Stress:** 6  
-> **ATK:** +4 | **Staff :** Far | 2d10+4 mag
+> **ATK:** +4 | **Staff:** Far | 2d10+4 mag
 
 **Experience:** Magical Knowledge +2, Strategize +2
 

@@ -24,7 +24,7 @@ THE BASICS
 
 WHAT IS DAGGERHEART?
 
-Daggerheart is a tabletop roleplaying game for one Game Master (“GM”) and 2–5 players. Each game session lasts about 2–4 hours, and Daggerheart can be played as a one- shot or a multi-session campaign of any length.
+Daggerheart is a tabletop roleplaying game for one Game Master (“GM”) and 2–5 players. Each game session lasts about 2–4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
 
 During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters (“PCs”) encounter. The players, in turn, roleplay their PCs’ reactions to the scenario presented by the GM. If the outcome of a player’s action depends on fate or fortune, the GM calls for an action roll.
 

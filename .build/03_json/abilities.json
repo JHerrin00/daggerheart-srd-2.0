@@ -1652,7 +1652,7 @@
     "level": "7",
     "name": "Midnight-touched",
     "recall": "2",
-    "text": "When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:\n\n- Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead.\n- When you make a successful attack, you can **mark a**\n\n**Stress** to add the result of your Fear Die to your damage roll.",
+    "text": "When 4 or more of the domain cards in your loadout are from the Midnight domain, gain the following benefits:\n\n- Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead.\n- When you make a successful attack, you can **mark a Stress** to add the result of your Fear Die to your damage roll.",
     "type": "Ability"
   },
   {

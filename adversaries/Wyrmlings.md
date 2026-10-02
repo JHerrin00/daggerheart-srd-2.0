@@ -12,7 +12,7 @@
 
 ## FEATURES
 
-***Horde (2d4+5) - Passive:*** When the Wyrmlings have marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
+***Horde (2d6+5) - Passive:*** When the Wyrmlings have marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead.
 
 ***Ravenous - Reaction:*** Once per GM turn when a PC marks a HP from an attack made by the Wyrmlings, you can **spend a Fear** to spotlight the Wyrmlings again.
 

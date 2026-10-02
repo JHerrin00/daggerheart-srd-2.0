@@ -124,9 +124,7 @@ If you roll a natural 20 on an attack, your roll automatically succeeds and you 
 
 After a player describes a move they want to make during the game, you might decide an action roll is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
 
-- Determine whether the roll is necessary, considering the
-
-PC’s Experiences or backstory, the pressure they’re acting under, and the possible outcomes.
+- Determine whether the roll is necessary, considering the PC’s Experiences or backstory, the pressure they’re acting under, and the possible outcomes.
 
 - Establish the stakes of an action roll before the player makes it.
 

@@ -322,12 +322,6 @@
   {
     "burden": "One-Handed",
     "damage": "d10 mag",
-    "feature": [
-      {
-        "name": "",
-        "text": "— Name Trait Range Damage Burden"
-      }
-    ],
     "name": "Hand Runes",
     "physical_or_magical": "Magical",
     "primary_or_secondary": "Primary",
@@ -1012,6 +1006,22 @@
     "trait": "Strength"
   },
   {
+    "burden": "One-Handed",
+    "damage": "d8+3 phy/mag",
+    "feature": [
+      {
+        "name": "Otherworldly",
+        "text": "On a successful attack, you can deal physical or magic damage."
+      }
+    ],
+    "name": "Improved Shadowblade",
+    "physical_or_magical": "Magical",
+    "primary_or_secondary": "Primary",
+    "range": "Melee",
+    "tier": "2",
+    "trait": "Presence"
+  },
+  {
     "burden": "Two-Handed",
     "damage": "d10+5 mag",
     "name": "Improved Glowing Rings",
@@ -1243,7 +1253,7 @@
     "feature": [
       {
         "name": "Omnipresent",
-        "text": "You can make attacks against targets within Very Far range, but must do so with disadvantage. Name Trait Range Damage Burden"
+        "text": "You can make attacks against targets within Very Far range, but must do so with disadvantage."
       }
     ],
     "name": "Displacement Razor",
@@ -1547,7 +1557,7 @@
     "feature": [
       {
         "name": "Quick",
-        "text": "When you make an attack, you can mark a Stress to target another creature within range. Name Trait Range Damage Burden"
+        "text": "When you make an attack, you can mark a Stress to target another creature within range."
       }
     ],
     "name": "Advanced Rapier",
@@ -1958,6 +1968,22 @@
     "trait": "Strength"
   },
   {
+    "burden": "One-Handed",
+    "damage": "d8+6 phy/mag",
+    "feature": [
+      {
+        "name": "Otherworldly",
+        "text": "On a successful attack, you can deal physical or magic damage."
+      }
+    ],
+    "name": "Advanced Shadowblade",
+    "physical_or_magical": "Magical",
+    "primary_or_secondary": "Primary",
+    "range": "Melee",
+    "tier": "3",
+    "trait": "Presence"
+  },
+  {
     "burden": "Two-Handed",
     "damage": "d10+8 mag",
     "name": "Advanced Glowing Rings",
@@ -2173,7 +2199,7 @@
     "feature": [
       {
         "name": "Freezing",
-        "text": "When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained._ Name Trait Range Damage Burden"
+        "text": "When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained._"
       }
     ],
     "name": "Rime Scepter",
@@ -2517,7 +2543,7 @@
     "feature": [
       {
         "name": "Destructive",
-        "text": "-1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress. Name Trait Range Damage Burden"
+        "text": "-1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress."
       }
     ],
     "name": "Sledge Axe",
@@ -2750,6 +2776,22 @@
     "trait": "Strength"
   },
   {
+    "burden": "One-Handed",
+    "damage": "d8+9 phy/mag",
+    "feature": [
+      {
+        "name": "Otherworldly",
+        "text": "On a successful attack, you can deal physical or magic damage."
+      }
+    ],
+    "name": "Legendary Shadowblade",
+    "physical_or_magical": "Magical",
+    "primary_or_secondary": "Primary",
+    "range": "Melee",
+    "tier": "4",
+    "trait": "Presence"
+  },
+  {
     "burden": "Two-Handed",
     "damage": "d10+11 mag",
     "name": "Legendary Glowing Rings",
@@ -2762,12 +2804,6 @@
   {
     "burden": "One-Handed",
     "damage": "d10+9 mag",
-    "feature": [
-      {
-        "name": "",
-        "text": "— Name Trait Range Damage Burden"
-      }
-    ],
     "name": "Legendary Hand Runes",
     "physical_or_magical": "Magical",
     "primary_or_secondary": "Primary",
@@ -3083,7 +3119,7 @@
     "feature": [
       {
         "name": "Reliable",
-        "text": "+1 to attack rolls Name Trait Range Damage Burden"
+        "text": "+1 to attack rolls"
       }
     ],
     "name": "Thistlebow",
@@ -3147,7 +3183,7 @@
     "feature": [
       {
         "name": "Bonded",
-        "text": "Gain a bonus to your damage rolls equal to your level. SECONDARY WEAPON TABLES _Players can choose one Tier 1 secondary weapon during character creation. The GM can make_ _other weapons available throughout the campaign as the PCs level up._"
+        "text": "Gain a bonus to your damage rolls equal to your level."
       }
     ],
     "name": "Fusion Gloves",

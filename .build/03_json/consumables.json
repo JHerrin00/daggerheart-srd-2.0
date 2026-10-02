@@ -30,17 +30,17 @@
     "roll": "06"
   },
   {
-    "description": "**Potion** Clear 1d4 HP.",
+    "description": "Clear 1d4 HP.",
     "name": "Minor Health Potion",
     "roll": "07"
   },
   {
-    "description": "**Potion** Clear 1d4 Stress.",
+    "description": "Clear 1d4 Stress.",
     "name": "Minor Stamina Potion",
     "roll": "08"
   },
   {
-    "description": "**Venom** You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon.",
+    "description": "You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon.",
     "name": "Grindletooth Venom",
     "roll": "09"
   },
@@ -55,17 +55,17 @@
     "roll": "11"
   },
   {
-    "description": "**Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage.",
+    "description": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage.",
     "name": "Unstable Arcane Shard",
     "roll": "12"
   },
   {
-    "description": "**Stability** You can drink this potion to choose one additional downtime move.",
+    "description": "You can drink this potion to choose one additional downtime move.",
     "name": "Potion of Stability",
     "roll": "13"
   },
   {
-    "description": "**Grindletooth** **Venom** You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.",
+    "description": "You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.",
     "name": "Improved Grindletooth Venom",
     "roll": "14"
   },
@@ -75,7 +75,7 @@
     "roll": "15"
   },
   {
-    "description": "**Darksmoke** When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack.",
+    "description": "When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack.",
     "name": "Vial of Darksmoke",
     "roll": "16"
   },
@@ -110,52 +110,52 @@
     "roll": "22"
   },
   {
-    "description": "**Parchment** By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper.",
+    "description": "By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper.",
     "name": "Replication Parchment",
     "roll": "23"
   },
   {
-    "description": "**Arcane Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.",
+    "description": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.",
     "name": "Improved Arcane Shard",
     "roll": "24"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Agility until your next rest.",
+    "description": "You gain a +1 bonus to your Agility until your next rest.",
     "name": "Major Stride Potion",
     "roll": "25"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Strength until your next rest.",
+    "description": "You gain a +1 bonus to your Strength until your next rest.",
     "name": "Major Bolster Potion",
     "roll": "26"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Finesse until your next rest.",
+    "description": "You gain a +1 bonus to your Finesse until your next rest.",
     "name": "Major Control Potion",
     "roll": "27"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Instinct until your next rest.",
+    "description": "You gain a +1 bonus to your Instinct until your next rest.",
     "name": "Major Attune Potion",
     "roll": "28"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Presence until your next rest.",
+    "description": "You gain a +1 bonus to your Presence until your next rest.",
     "name": "Major Charm Potion",
     "roll": "29"
   },
   {
-    "description": "**Potion** You gain a +1 bonus to your Knowledge until your next rest.",
+    "description": "You gain a +1 bonus to your Knowledge until your next rest.",
     "name": "Major Enlighten Potion",
     "roll": "30"
   },
   {
-    "description": "**Yorgi** You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range.",
+    "description": "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range.",
     "name": "Blood of the Yorgi",
     "roll": "31"
   },
   {
-    "description": "**Potion** After drinking this potion, the next successful attack you make critically succeeds.",
+    "description": "After drinking this potion, the next successful attack you make critically succeeds.",
     "name": "Homet’s Secret Potion",
     "roll": "32"
   },
@@ -185,7 +185,7 @@
     "roll": "37"
   },
   {
-    "description": "**Shard** You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 4d20 magic damage.",
+    "description": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 4d20 magic damage.",
     "name": "Major Arcane Shard",
     "roll": "38"
   },
@@ -195,7 +195,7 @@
     "roll": "39"
   },
   {
-    "description": "**Void** Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.",
+    "description": "Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.",
     "name": "Circle of the Void",
     "roll": "40"
   },
@@ -210,12 +210,12 @@
     "roll": "42"
   },
   {
-    "description": "**Potion** Clear 1d4+2 HP.",
+    "description": "Clear 1d4+2 HP.",
     "name": "Major Health Potion",
     "roll": "43"
   },
   {
-    "description": "**Potion** Clear 1d4+2 Stress.",
+    "description": "Clear 1d4+2 Stress.",
     "name": "Major Stamina Potion",
     "roll": "44"
   },
@@ -230,12 +230,12 @@
     "roll": "46"
   },
   {
-    "description": "**Voices** You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage.",
+    "description": "You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage.",
     "name": "Jar of Lost Voices",
     "roll": "47"
   },
   {
-    "description": "**Tea** You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency.",
+    "description": "You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency.",
     "name": "Dragonbloom Tea",
     "roll": "48"
   },
@@ -270,7 +270,7 @@
     "roll": "54"
   },
   {
-    "description": "**Stone** If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles.",
+    "description": "If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles.",
     "name": "Knowledge Stone",
     "roll": "55"
   },
@@ -290,12 +290,12 @@
     "roll": "58"
   },
   {
-    "description": "**Marigold** When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.",
+    "description": "When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.",
     "name": "Mirror of Marigold",
     "roll": "59"
   },
   {
-    "description": "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range. **Additional Consumables** _The following table includes the consumables from the Hope & Fear Expansion Set._",
+    "description": "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range.",
     "name": "Stardrop",
     "roll": "60"
   },
@@ -315,22 +315,22 @@
     "roll": "03"
   },
   {
-    "description": "**Bezoar** You can swallow this bezoar to become immune to poisons until your next long rest.",
+    "description": "You can swallow this bezoar to become immune to poisons until your next long rest.",
     "name": "Cupbearer’s Bezoar",
     "roll": "04"
   },
   {
-    "description": "**Potion** You can drink this tea to perfectly blend into natural environments until your next rest.",
+    "description": "You can drink this tea to perfectly blend into natural environments until your next rest.",
     "name": "Mossmantle Potion",
     "roll": "05"
   },
   {
-    "description": "**Lozenge** You can dissolve this lozenge in your mouth to perfectly mimic any voice you've heard until the end of the scene.",
+    "description": "You can dissolve this lozenge in your mouth to perfectly mimic any voice you've heard until the end of the scene.",
     "name": "Lyrebird Lozenge",
     "roll": "06"
   },
   {
-    "description": "**Featherfall** You can drink this potion to ignore damage from falling for the next 10 minutes.",
+    "description": "You can drink this potion to ignore damage from falling for the next 10 minutes.",
     "name": "Vial of Featherfall",
     "roll": "07"
   },
@@ -340,7 +340,7 @@
     "roll": "08"
   },
   {
-    "description": "**Dust** This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.",
+    "description": "This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.",
     "name": "Packet of Space Dust",
     "roll": "09"
   },
@@ -350,7 +350,7 @@
     "roll": "10"
   },
   {
-    "description": "**Powder** You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.",
+    "description": "You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.",
     "name": "Deathseer’s Powder",
     "roll": "11"
   },
@@ -365,7 +365,7 @@
     "roll": "13"
   },
   {
-    "description": "**Mushroom** You can break this mushroom into pieces, causing it to glow bright blue until your next long rest.",
+    "description": "You can break this mushroom into pieces, causing it to glow bright blue until your next long rest.",
     "name": "Glowmoss Mushroom",
     "roll": "14"
   },
@@ -380,12 +380,12 @@
     "roll": "16"
   },
   {
-    "description": "**Spiderlegs** You can eat these spiderlegs to walk on walls until your next rest.",
+    "description": "You can eat these spiderlegs to walk on walls until your next rest.",
     "name": "Bundle of Spiderlegs",
     "roll": "17"
   },
   {
-    "description": "**Bottle** You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes _Hidden_.",
+    "description": "You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes _Hidden_.",
     "name": "Ciscan Fog Bottle",
     "roll": "18"
   },
@@ -410,32 +410,32 @@
     "roll": "22"
   },
   {
-    "description": "**Token** You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.",
+    "description": "You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.",
     "name": "Displacement Token",
     "roll": "23"
   },
   {
-    "description": "**Dust** You can blow this dust in an adversary's face to prevent them from clearing Stress until your next long rest.",
+    "description": "You can blow this dust in an adversary's face to prevent them from clearing Stress until your next long rest.",
     "name": "Night Hag’s Dust",
     "roll": "24"
   },
   {
-    "description": "**Thread** You can use this thread to clear either a Hit Point or 2 Armor Slots.",
+    "description": "You can use this thread to clear either a Hit Point or 2 Armor Slots.",
     "name": "Self-Sewing Thread",
     "roll": "25"
   },
   {
-    "description": "**Fortune** When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot- deep wall of solid stone.",
+    "description": "When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot-deep wall of solid stone.",
     "name": "Stonemason’s Fortune",
     "roll": "26"
   },
   {
-    "description": "**Potion** You can drink this potion to Utilize an Experience without spending a Hope.",
+    "description": "You can drink this potion to Utilize an Experience without spending a Hope.",
     "name": "Mnemonic Potion",
     "roll": "27"
   },
   {
-    "description": "**Salve** You can apply this salve to your skin to make yourself immune to heat until your next rest.",
+    "description": "You can apply this salve to your skin to make yourself immune to heat until your next rest.",
     "name": "Salamander Salve",
     "roll": "28"
   },
@@ -465,7 +465,7 @@
     "roll": "33"
   },
   {
-    "description": "**Brew** When you drink this dram of liquid, you gain a bonus to your Strength and a penalty to your Finesse and Knowledge equal to your Instinct (minimum 1). This effect lasts until you make a death move or until your next rest.",
+    "description": "When you drink this dram of liquid, you gain a bonus to your Strength and a penalty to your Finesse and Knowledge equal to your Instinct (minimum 1). This effect lasts until you make a death move or until your next rest.",
     "name": "Berserker’s Brew",
     "roll": "34"
   },
@@ -485,37 +485,37 @@
     "roll": "37"
   },
   {
-    "description": "**Draught** You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll.",
+    "description": "You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll.",
     "name": "Demiurge’s Draught",
     "roll": "38"
   },
   {
-    "description": "**Tea** You can drink this tea to refresh your features as if you had taken a long rest.",
+    "description": "You can drink this tea to refresh your features as if you had taken a long rest.",
     "name": "Cockerel Claw Tea",
     "roll": "39"
   },
   {
-    "description": "**Vigilance** You can drink this potion to gain a +1 bonus to your Evasion until you mark a Hit Point.",
+    "description": "You can drink this potion to gain a +1 bonus to your Evasion until you mark a Hit Point.",
     "name": "Potion of Vigilance",
     "roll": "40"
   },
   {
-    "description": "**Concoction** When you drink this potion, anything you say or do in the next hour becomes impossible for a witness to recount. Any attempts they make to communicate what they saw, heard, or otherwise sensed comes out garbled or nonsensical.",
+    "description": "When you drink this potion, anything you say or do in the next hour becomes impossible for a witness to recount. Any attempts they make to communicate what they saw, heard, or otherwise sensed comes out garbled or nonsensical.",
     "name": "Cacophonous Concoction",
     "roll": "41"
   },
   {
-    "description": "**Mead** You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear.",
+    "description": "You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear.",
     "name": "Nightmare Mead",
     "roll": "42"
   },
   {
-    "description": "**Abjuration** You can hammer this stake into the ground and make a proclamation. Until your next rest, a creature within Far range of the stake who transgresses that proclamation must mark a Stress. The stake lasts until your next rest, then it shatters.",
+    "description": "You can hammer this stake into the ground and make a proclamation. Until your next rest, a creature within Far range of the stake who transgresses that proclamation must mark a Stress. The stake lasts until your next rest, then it shatters.",
     "name": "Stake of Abjuration",
     "roll": "43"
   },
   {
-    "description": "**Shroud** You can place this shroud over the corpse of a recently deceased creature. The creature's spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.",
+    "description": "You can place this shroud over the corpse of a recently deceased creature. The creature's spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.",
     "name": "Psychopomp’s Shroud",
     "roll": "44"
   },
@@ -530,7 +530,7 @@
     "roll": "46"
   },
   {
-    "description": "**Potion** You are _Hidden_ until you deal damage to another creature or until your next rest.",
+    "description": "You are _Hidden_ until you deal damage to another creature or until your next rest.",
     "name": "Invisibility Potion",
     "roll": "47"
   },
@@ -545,7 +545,7 @@
     "roll": "49"
   },
   {
-    "description": "**Pomelo** You can eat this citrus fruit to clear all Hit Points and Stress.",
+    "description": "You can eat this citrus fruit to clear all Hit Points and Stress.",
     "name": "Godling’s Pomelo",
     "roll": "50"
   },
@@ -555,22 +555,22 @@
     "roll": "51"
   },
   {
-    "description": "**Malison** When you release this spellcaster's trapped soul, you can cast one spell from a card in your vault as if it were in your loadout. This doesn't work for permanently vaulted cards.",
+    "description": "When you release this spellcaster's trapped soul, you can cast one spell from a card in your vault as if it were in your loadout. This doesn't work for permanently vaulted cards.",
     "name": "Magic-User’s Malison",
     "roll": "52"
   },
   {
-    "description": "**Severant** You can use this magic blade to cut one magical or metaphysical bond, such as an enchantment, contract, magical tether, or divine oath. When you do, the blade shatters.",
+    "description": "You can use this magic blade to cut one magical or metaphysical bond, such as an enchantment, contract, magical tether, or divine oath. When you do, the blade shatters.",
     "name": "Quintessential Severant",
     "roll": "53"
   },
   {
-    "description": "**Echoed Self** You can wear this mask during your next level up to swap the values of any of your traits. When you do, the mask becomes your permanent face.",
+    "description": "You can wear this mask during your next level up to swap the values of any of your traits. When you do, the mask becomes your permanent face.",
     "name": "Mask of the Echoed Self",
     "roll": "54"
   },
   {
-    "description": "**Bell** You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.",
+    "description": "You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.",
     "name": "Necroprancer’s Bell",
     "roll": "55"
   },
@@ -580,7 +580,7 @@
     "roll": "56"
   },
   {
-    "description": "**Fallacy** You can spend any number of handfuls of gold by placing them into this slotted ceramic jar shaped like a pig. When you throw the jar at a point within Far range, it explodes and deals 1d20 magic damage for each handful of gold spent to all creatures within Close range of that point. All gold within the jar is destroyed.",
+    "description": "You can spend any number of handfuls of gold by placing them into this slotted ceramic jar shaped like a pig. When you throw the jar at a point within Far range, it explodes and deals 1d20 magic damage for each handful of gold spent to all creatures within Close range of that point. All gold within the jar is destroyed.",
     "name": "Gambler’s Fallacy",
     "roll": "57"
   },
@@ -590,12 +590,12 @@
     "roll": "58"
   },
   {
-    "description": "**Undying Hero** When you drink this potion, death can't touch you until your next long rest. When you would mark your last Hit Point, instead of making a death move, you make one final action roll before falling into a dreamless slumber until an ally chooses the Tend to Wounds downtime move to clear your Hit Points.",
+    "description": "When you drink this potion, death can't touch you until your next long rest. When you would mark your last Hit Point, instead of making a death move, you make one final action roll before falling into a dreamless slumber until an ally chooses the Tend to Wounds downtime move to clear your Hit Points.",
     "name": "Tears of the Undying Hero",
     "roll": "59"
   },
   {
-    "description": "**Potion** You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest.",
+    "description": "You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest.",
     "name": "Featherstep Potion",
     "roll": "60"
   }

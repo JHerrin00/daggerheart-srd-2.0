@@ -85,17 +85,17 @@
     "roll": "17"
   },
   {
-    "description": "**Potion Recipe** As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion.",
+    "description": "As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion.",
     "name": "Minor Stamina Potion Recipe",
     "roll": "18"
   },
   {
-    "description": "**Potion Recipe** As a downtime move, you can use a vial of blood to craft a Minor Health Potion.",
+    "description": "As a downtime move, you can use a vial of blood to craft a Minor Health Potion.",
     "name": "Minor Health Potion Recipe",
     "roll": "19"
   },
   {
-    "description": "**Compasses** These two compasses point toward each other no matter how far apart they are.",
+    "description": "These two compasses point toward each other no matter how far apart they are.",
     "name": "Homing Compasses",
     "roll": "20"
   },
@@ -115,7 +115,7 @@
     "roll": "23"
   },
   {
-    "description": "**Darksmoke** **Recipe** As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.",
+    "description": "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.",
     "name": "Vial of Darksmoke Recipe",
     "roll": "24"
   },
@@ -155,7 +155,7 @@
     "roll": "31"
   },
   {
-    "description": "**Resistance** Once per long rest, you can activate this ring after a successful attack against you to halve the damage.",
+    "description": "Once per long rest, you can activate this ring after a successful attack against you to halve the damage.",
     "name": "Ring of Resistance",
     "roll": "32"
   },
@@ -165,7 +165,7 @@
     "roll": "33"
   },
   {
-    "description": "**Goods** Once per long rest, you can open this small box and roll a d12. On a result of 1-6, it's empty. On a result of 7-10, it contains one random common consumable. On a result of 11-12, it contains two random common consumables.",
+    "description": "Once per long rest, you can open this small box and roll a d12. On a result of 1-6, it's empty. On a result of 7-10, it contains one random common consumable. On a result of 11-12, it contains two random common consumables.",
     "name": "Box of Many Goods",
     "roll": "34"
   },
@@ -190,7 +190,7 @@
     "roll": "38"
   },
   {
-    "description": "**Locket** During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re-imbued before it can be used this way again.",
+    "description": "During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re-imbued before it can be used this way again.",
     "name": "Hopekeeper Locket",
     "roll": "39"
   },
@@ -235,12 +235,12 @@
     "roll": "47"
   },
   {
-    "description": "**Pendant** While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.",
+    "description": "While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.",
     "name": "Flickerfly Pendant",
     "roll": "48"
   },
   {
-    "description": "**Boots** You can walk on the surface of water as if it were soft ground.",
+    "description": "You can walk on the surface of water as if it were soft ground.",
     "name": "Lakestrider Boots",
     "roll": "49"
   },
@@ -250,7 +250,7 @@
     "roll": "50"
   },
   {
-    "description": "**Recipe** As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.",
+    "description": "As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.",
     "name": "Mythic Dust Recipe",
     "roll": "51"
   },
@@ -290,12 +290,12 @@
     "roll": "58"
   },
   {
-    "description": "**Unbreakable** **Resolve** Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.",
+    "description": "Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.",
     "name": "Ring of Unbreakable Resolve",
     "roll": "59"
   },
   {
-    "description": "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two. **Additional Items** _The following table includes the items from the Hope & Fear Expansion Set._",
+    "description": "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.",
     "name": "Belt of Unity",
     "roll": "60"
   },
@@ -315,12 +315,12 @@
     "roll": "03"
   },
   {
-    "description": "**Dust** This snuffbox is filled with combustible powder.",
+    "description": "This snuffbox is filled with combustible powder.",
     "name": "Box of Dragon Dust",
     "roll": "04"
   },
   {
-    "description": "**Ring** Spend a Hope to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer's proximity to hidden treasure: warm colors for near, cool colors for far.",
+    "description": "Spend a Hope to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer's proximity to hidden treasure: warm colors for near, cool colors for far.",
     "name": "Nighthawker’s Ring",
     "roll": "05"
   },
@@ -330,7 +330,7 @@
     "roll": "06"
   },
   {
-    "description": "**Granules** This savory powder makes any food it's sprinkled on delicious and healthy, no matter how bland or rotten it is.",
+    "description": "This savory powder makes any food it's sprinkled on delicious and healthy, no matter how bland or rotten it is.",
     "name": "Gourmet Granules",
     "roll": "07"
   },
@@ -345,7 +345,7 @@
     "roll": "09"
   },
   {
-    "description": "**Knife** This 3-inch blade has an edge that easily cuts through anything except the handle it's stored in.",
+    "description": "This 3-inch blade has an edge that easily cuts through anything except the handle it's stored in.",
     "name": "Silee’s Folding Knife",
     "roll": "10"
   },
@@ -380,12 +380,12 @@
     "roll": "16"
   },
   {
-    "description": "**Torch** This torch gives off light only the bearer can see.",
+    "description": "This torch gives off light only the bearer can see.",
     "name": "Mandragorian Torch",
     "roll": "17"
   },
   {
-    "description": "**Mystique** While wearing these boots, you don't leave tracks or footprints.",
+    "description": "While wearing these boots, you don't leave tracks or footprints.",
     "name": "Boots of Supple Mystique",
     "roll": "18"
   },
@@ -420,17 +420,17 @@
     "roll": "24"
   },
   {
-    "description": "**Anklet** This anklet makes your steps silent as long as you don't move faster than walking speed.",
+    "description": "This anklet makes your steps silent as long as you don't move faster than walking speed.",
     "name": "Whisperstep Anklet",
     "roll": "25"
   },
   {
-    "description": "**Loupe** You can use this loupe to see through illusions and enchantments.",
+    "description": "You can use this loupe to see through illusions and enchantments.",
     "name": "Enchanter’s Loupe",
     "roll": "26"
   },
   {
-    "description": "**Mirrorball** Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest.",
+    "description": "Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest.",
     "name": "Escher’s Mirrorball",
     "roll": "27"
   },
@@ -440,27 +440,27 @@
     "roll": "28"
   },
   {
-    "description": "**Bell** This bell rings when a ghost or undead creature moves within Far range of it.",
+    "description": "This bell rings when a ghost or undead creature moves within Far range of it.",
     "name": "Gravewarden’s Bell",
     "roll": "29"
   },
   {
-    "description": "**Sightless Saint** You gain a +1 bonus to your Hope Die when you make the Risk It All death move.",
+    "description": "You gain a +1 bonus to your Hope Die when you make the Risk It All death move.",
     "name": "Reliquary of the Sightless Saint",
     "roll": "30"
   },
   {
-    "description": "**Revelation** You can attune this map to one creature at a time. The map always shows the attuned creature's location.",
+    "description": "You can attune this map to one creature at a time. The map always shows the attuned creature's location.",
     "name": "Map of Revelation",
     "roll": "31"
   },
   {
-    "description": "**Obsidian Slate** This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.",
+    "description": "This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.",
     "name": "Dagginae’s Obsidian Slate",
     "roll": "32"
   },
   {
-    "description": "**Backpack** Once per rest, you can spend a Hope to conjure a mundane item up to a cubic foot in size inside this satchel.",
+    "description": "Once per rest, you can spend a Hope to conjure a mundane item up to a cubic foot in size inside this satchel.",
     "name": "Gadiman’s Backpack",
     "roll": "33"
   },
@@ -485,17 +485,17 @@
     "roll": "37"
   },
   {
-    "description": "**Periapt** When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest.",
+    "description": "When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest.",
     "name": "Insomniac’s Periapt",
     "roll": "38"
   },
   {
-    "description": "**Saddle** This saddle grants any animal it's strapped onto the ability to understand their rider's commands.",
+    "description": "This saddle grants any animal it's strapped onto the ability to understand their rider's commands.",
     "name": "Wildrider’s Saddle",
     "roll": "39"
   },
   {
-    "description": "**Circlets** Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet.",
+    "description": "Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet.",
     "name": "Soul-Twin Circlets",
     "roll": "40"
   },
@@ -510,12 +510,12 @@
     "roll": "42"
   },
   {
-    "description": "**Brooch** Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take.",
+    "description": "Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take.",
     "name": "Two-Faced Aegis Brooch",
     "roll": "43"
   },
   {
-    "description": "**Bracelets** On a successful weapon attack, you can knock your target back up to Close range from their location.",
+    "description": "On a successful weapon attack, you can knock your target back up to Close range from their location.",
     "name": "Knockback Bracelets",
     "roll": "44"
   },
@@ -530,22 +530,22 @@
     "roll": "46"
   },
   {
-    "description": "**Pendant** You can choose an additional downtime move each rest.",
+    "description": "You can choose an additional downtime move each rest.",
     "name": "Timekeeper’s Pendant",
     "roll": "47"
   },
   {
-    "description": "**Pendant** Once per long rest, you can spend a Hope to tell the pendant a creature's name. The pendant gently pulls you toward that creature's current location until your next long rest.",
+    "description": "Once per long rest, you can spend a Hope to tell the pendant a creature's name. The pendant gently pulls you toward that creature's current location until your next long rest.",
     "name": "Iron Dagger Pendant",
     "roll": "48"
   },
   {
-    "description": "**Ascendancy** An animal who wears this collar gains the ability to speak and understand common speech.",
+    "description": "An animal who wears this collar gains the ability to speak and understand common speech.",
     "name": "Collar of Ascendancy",
     "roll": "49"
   },
   {
-    "description": "**Sanctuary** A PC who takes a rest in the temporal sanctuary can choose an additional downtime move.",
+    "description": "A PC who takes a rest in the temporal sanctuary can choose an additional downtime move.",
     "name": "Temporal Sanctuary",
     "roll": "50"
   },
@@ -555,12 +555,12 @@
     "roll": "51"
   },
   {
-    "description": "**Friendship** Two creatures can wear this pair of rings shaped like coiled snakes. You can spend the Hope of whoever is wearing the other ring (with their permission) as if it were your own.",
+    "description": "Two creatures can wear this pair of rings shaped like coiled snakes. You can spend the Hope of whoever is wearing the other ring (with their permission) as if it were your own.",
     "name": "Rings of Friendship",
     "roll": "52"
   },
   {
-    "description": "**Camaraderie** Two creatures can wear this pair of wooden rings. You can mark the Stress of whoever is wearing the other ring (with their permission) as if it were your own.",
+    "description": "Two creatures can wear this pair of wooden rings. You can mark the Stress of whoever is wearing the other ring (with their permission) as if it were your own.",
     "name": "Rings of Camaraderie",
     "roll": "53"
   },
@@ -570,7 +570,7 @@
     "roll": "54"
   },
   {
-    "description": "**Circlet** When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress.",
+    "description": "When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress.",
     "name": "Phobophage’s Circlet",
     "roll": "55"
   },
@@ -590,12 +590,12 @@
     "roll": "58"
   },
   {
-    "description": "**Relic** Once per rest, you can spend a Hope to use an ally's Experience as if it were your own. You can carry only one relic.",
+    "description": "Once per rest, you can spend a Hope to use an ally's Experience as if it were your own. You can carry only one relic.",
     "name": "Communion Relic",
     "roll": "59"
   },
   {
-    "description": "Once per long rest, you can activate your Hope feature without spending Hope. You can carry only one relic. CONSUMABLES Consumables are pieces of loot that can be used only once. You can hold up to five of each consumable at a time. Using a consumable doesn't require a roll unless required by the GM or the demands of the fiction. You can use the tables below to generate items ahead of a game or during a session. Choose the desired rarity, roll the associated number of d12s, add their values together (if needed), and then reference the table for the item that matches that value. **•\t Common (1d12 or 2d12):** Common consumables might be found at an abandoned camp or readily available at a local store. **•\t Uncommon (2d12 or 3d12):** Uncommon consumables might be found in limited supply in a shop, kept in a protected place in a camp, or offered as part of a reward for a job. **•\t Rare (3d12 or 4d12):** Rare consumables might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered in a powerful NPC's possessions. **•\t Legendary (4d12 or 5d12):** Legendary consumables might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful adversary's most precious and guarded treasure. **Core Set Consumables** _The following table includes the consumables from the Daggerheart Core Set._",
+    "description": "Once per long rest, you can activate your Hope feature without spending Hope. You can carry only one relic.",
     "name": "Augur’s Relic",
     "roll": "60"
   }

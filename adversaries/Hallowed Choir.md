@@ -1,6 +1,6 @@
 # Hallowed Choir
 
-***Tier 4 Horde (4/HP)***
+***Tier 4 Horde (6/HP)***
 *A heavenly host of winged humanoids whose song calls forth tears of religious awe.*
 
 **Motives & Tactics:** Drown out disbelief, raise voices

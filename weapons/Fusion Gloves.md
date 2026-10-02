@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Bonded:*** Gain a bonus to your damage rolls equal to your level. SECONDARY WEAPON TABLES *Players can choose one Tier 1 secondary weapon during character creation. The GM can make* *other weapons available throughout the campaign as the PCs level up.*
+***Bonded:*** Gain a bonus to your damage rolls equal to your level.

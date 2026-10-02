@@ -1,7 +1,7 @@
 # Fungispunj Sporeling
 
 ***Tier 2 Minion***
-*A halfling-sized mushroom creature that defends itself from attackers with tiny puff s of neurotoxic spores.*
+*A halfling-sized mushroom creature that defends itself from attackers with tiny puffs of neurotoxic spores.*
 
 **Motives & Tactics:** Avoid violence, spray attackers
 
@@ -12,7 +12,7 @@
 
 ## FEATURES
 
-***Minion (4) - Passive:*** The Sporeling is defeated when it takes any damage. For every 6 damage a PC deals to the Sporeling, the PC defeats an additional Minion within range the attack would succeed against.
+***Minion (6) - Passive:*** The Sporeling is defeated when it takes any damage. For every 6 damage a PC deals to the Sporeling, the PC defeats an additional Minion within range the attack would succeed against.
 
 ***Group Attack - Action:*** **Spend a Fear** to choose a target and spotlight all Fungispunj Sporelings within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 magic damage each. Combine this damage.
 

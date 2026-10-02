@@ -16,17 +16,13 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 
 **CLASS FEATURE**
 
-***Ranger’s Focus:*** Spend a Hope** and make an attack against a target. On a success, deal your attack’s normal damage and temporarily make the attack’s target your *Focus*. Until this feature ends or you make a different creature your *Focus*, you gain the following benefits against your *Focus:*
+***Ranger’s Focus:*** **Spend a Hope** and make an attack against a target. On a success, deal your attack’s normal damage and temporarily make the attack’s target your *Focus*. Until this feature ends or you make a different creature your *Focus*, you gain the following benefits against your *Focus:*
 
 - You know precisely what direction they are in.
 
-- When you deal damage to them, they must mark a
+- When you deal damage to them, they must mark a Stress.
 
-Stress.
-
-- When you fail an attack against them, you can end your
-
-Ranger’s Focus feature to reroll your Duality Dice.
+- When you fail an attack against them, you can end your Ranger’s Focus feature to reroll your Duality Dice.
 
 ### SUBCLASSES
 
@@ -78,7 +74,7 @@ STEP 4: CHOOSE THEIR ATTACK AND RECORD DAMAGE DIE
 
 Finally, describe your companion’s method of dealing damage (their standard attack) and record it in the “Attack & Damage” section. At level 1, your companion’s damage die is a d6 and their range is Melee. Choose whether they deal physical or magic damage.
 
-####WORKING WITH YOUR COMPANION
+#### WORKING WITH YOUR COMPANION
 
 The following sections will run you through the basics of working with your companion.
 
@@ -92,7 +88,7 @@ TAKING DAMAGE AS STRESS
 
 - When you choose a downtime move that clears Stress on yourself, your companion clears an equal number of Stress.
 
-####LEVELING UP YOUR COMPANION
+#### LEVELING UP YOUR COMPANION
 
 When your character levels up, choose one available option for your companion from the following list and mark it on your sheet:
 

@@ -34,9 +34,7 @@ You can have only one adversary *Marked for Death* at a time. This condition las
 
 - What organization trained you in the art of killing, and how did you become a member?
 
-- Throughout your career, one target has eluded you.
-
-Who are they, and how have they slipped through your fingers?
+- Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?
 
 **CONNECTIONS**
 

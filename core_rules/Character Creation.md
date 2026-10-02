@@ -14,7 +14,7 @@ STEP 1
 
 - **Choose a Subclass**
 
-**Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
+  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
 
 STEP 2
 
@@ -30,27 +30,27 @@ STEP 3
 
 - **Agility** (Use it to Sprint, Leap, Maneuver,etc.)
 
-A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
+  A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
 
 - **Strength** (Use it to Lift, Smash, Grapple, etc.)
 
-A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
+  A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
 
 - **Finesse** (Use it to Control, Hide, Tinker, etc.)
 
-A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
+  A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
 
 - **Instinct** (Use it to Perceive, Sense, Navigate, etc.)
 
-A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
+  A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
 
 - **Presence** (Use it to Charm, Perform, Deceive, etc.)
 
-A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
+  A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
 
 - **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)
 
-A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
+  A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
 
 When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, −1 to your character’s traits in any order you wish.
 
@@ -74,17 +74,13 @@ STEP 5
 
 Choose your **weapon(s):**
 
-- Select from the Tier 1 Weapon Tables either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.
+- Select from the Tier 1 Weapon Tables either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.** Then equip your selection by recording it in the Active Weapon field of your character sheet.
 
-- At level 1, your **Proficiency** is 1; write this number in the
-
-Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
+- At level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
 
 Choose and equip one set of **armor** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
 
-- Add your character’s level to your equipped armor’s **Base**
-
-**Thresholds** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
+- Add your character’s level to your equipped armor’s **Base Thresholds** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
 
 - Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
 
@@ -92,9 +88,7 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 - A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
 
-- EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a
-
-Minor Stamina Potion (clear 1d4 Stress)
+- EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)
 
 - One of the class-specific items listed on your character guide
 
@@ -114,9 +108,7 @@ STEP 7
 
 - Your PC gets two Experiences at character creation, each with a +2 modifier.
 
-- There’s no set list of Experiences to choose from, but an
-
-Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and* *“Highly Skilled” are too broad, because they could be applied* *to virtually any roll. Likewise, “Supersonic Flight” and* *“Invulnerable” imply game-breaking special abilities.*
+- There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and* *“Highly Skilled” are too broad, because they could be applied* *to virtually any roll. Likewise, “Supersonic Flight” and* *“Invulnerable” imply game-breaking special abilities.*
 
 EXAMPLE EXPERIENCES
 

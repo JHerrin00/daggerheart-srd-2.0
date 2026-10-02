@@ -24,9 +24,7 @@ Play the Vengeance if you want to strike down enemies who harm you or your allie
 
 - You’ve been tasked with protecting something important and delivering it somewhere dangerous. What is it, and where does it need to go?
 
-- You consider an aspect of yourself to be a weakness.
-
-What is it, and how has it affected you?
+- You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?
 
 **CONNECTIONS**
 

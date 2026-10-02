@@ -458,9 +458,7 @@ It’s up to you and your players how much importance you want to place on gold,
 
 Adjust the availability and utility of wealth and equipment to reflect the tone, themes, and setting of your campaign.
 
-If you don’t wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected
-
-list that aligns with your campaign setting and the party’s current location.
+If you don’t wish to track gold, then when PCs go shopping for new items let them pick one or two from a short, preselected list that aligns with your campaign setting and the party’s current location.
 
 Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
 

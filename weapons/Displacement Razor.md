@@ -6,4 +6,4 @@
 
 ### FEATURE
 
-***Omnipresent:*** You can make attacks against targets within Very Far range, but must do so with disadvantage. Name Trait Range Damage Burden
+***Omnipresent:*** You can make attacks against targets within Very Far range, but must do so with disadvantage.
