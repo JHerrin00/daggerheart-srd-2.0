@@ -17,7 +17,7 @@ A Markdown and JSON version of the Daggerheart System Reference Document 2.0 (20
 | `classes/` | 13 |
 | `communities/` | 15 |
 | `consumables/` | 120 |
-| `core_rules/` | 9 |
+| `core_rules/` | 17 |
 | `domains/` | 10 |
 | `environments/` | 47 |
 | `items/` | 120 |

@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.1.0] - 2026-10-03
+
+Adds the rules text that opens each player chapter. Earlier releases had every class, ancestry,
+community, transformation, weapon, armor piece and item, but not the rules printed in front of those
+lists.
+
+### Added
+
+- **Domains** (`core_rules/Domains.md`, pages 7 and 8): the domain list, which two domains each
+  class uses, domain card anatomy, loadout and vault, and usage limits.
+- **Classes** (`core_rules/Classes.md`, pages 8 and 9): what a class determines, and what a
+  subclass grants (spellcast trait, foundation, specialization and mastery features).
+- **Ancestries** (`core_rules/Ancestries.md`, page 32): the ancestries introduction and ancestry
+  features.
+- **Communities** (`core_rules/Communities.md`, page 38): the communities introduction.
+- **Transformations** (`core_rules/Transformations.md`, page 42): how transformations work and
+  granting transformations.
+- **Equipment** (`core_rules/Equipment.md`, pages 55 to 84): active and inventory weapons, weapon
+  properties and throwing, armor rules and reducing incoming damage, loot rarities, the
+  five-per-consumable limit, and gold.
+- **Running an Adventure** (`core_rules/Running an Adventure.md`, page 85): the chapter
+  introduction.
+- **Appendix** (`core_rules/Appendix.md`, page 206): the appendix introduction.
+- `core_rules.json` has a record for each new file, added after the existing records.
+
+### Fixed
+
+- "Assassion" in the PDF's class domain list (page 8) is corrected to "Assassin".
+
 ## [1.0.2] - 2026-10-03
 
 The repo now covers the whole SRD 2.0 rules text. The script rebuild also found and fixed the errors
