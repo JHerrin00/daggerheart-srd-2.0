@@ -14,7 +14,11 @@
 
 ***Relentless (4) - Passive:*** Adonix can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
 
-***Elemental Archon - Action:*** **Mark a Stress** to roll a **d4**. Adonix activates the corresponding effect: 1. ***Fire Beam.*** Adonix manifests a beam of elemental fire with a Very Close width from themself to the edge of the battlefield. Each target in the beam’s path must make an Agility Reaction Roll. Targets who fail take Severe damage. Targets who succeed take Minor damage. 2. ***Thunderclap.*** All creatures within Far range must mark a Stress and become *Vulnerable* until they succeed on an attack roll or the Demiurge is defeated. 3. ***Lightning Bolt.*** Make an attack against a target within Very Far range, dealing **4d8** magic damage on a success. If all results are even, make the same attack against a different target, repeating the cycle until you roll an odd result or run out of targets. 4. ***Ice Storm.*** Each PC within Close range must succeed on a Strength Reaction Roll or mark **1d4** Stress and become *Restrained* until they spend a Hope to escape.
+***Elemental Archon - Action:*** **Mark a Stress** to roll a **d4**. Adonix activates the corresponding effect: 
+1. ***Fire Beam.*** Adonix manifests a beam of elemental fire with a Very Close width from themself to the edge of the battlefield. Each target in the beam’s path must make an Agility Reaction Roll. Targets who fail take Severe damage. Targets who succeed take Minor damage. 
+2. ***Thunderclap.*** All creatures within Far range must mark a Stress and become *Vulnerable* until they succeed on an attack roll or the Demiurge is defeated. 
+3. ***Lightning Bolt.*** Make an attack against a target within Very Far range, dealing **4d8** magic damage on a success. If all results are even, make the same attack against a different target, repeating the cycle until you roll an odd result or run out of targets. 
+4. ***Ice Storm.*** Each PC within Close range must succeed on a Strength Reaction Roll or mark **1d4** Stress and become *Restrained* until they spend a Hope to escape.
 
 ***Alpha to Omega - Evolution:*** When Adonix is defeated, they resurrect in Omega form with all HP and Stress cleared. Each PC within Very Far range must succeed on a Presence Reaction Roll or lose a Hope. You gain a Fear for each Hope lost in this way. Adonix gains the following features in this form:
 
