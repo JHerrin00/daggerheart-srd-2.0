@@ -12,4 +12,4 @@
 
 ***Shadow’s Embrace - Passive:*** The Fang can climb and walk on vertical surfaces. **Mark a Stress** to move from one shadow to another within Far range.
 
-***Pick Off  the Straggler - Action:*** **Mark a Stress** to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily *Vulnerable*. On a success, the target must mark a Stress.
+***Pick Off the Straggler - Action:*** **Mark a Stress** to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily *Vulnerable*. On a success, the target must mark a Stress.

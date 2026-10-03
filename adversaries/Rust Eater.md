@@ -3,7 +3,7 @@
 ***Tier 2 Standard***
 *A pony-sized cockroach coated in a corrosive chitin that turns metal into rust.*
 
-**Motives & Tactics:** Avoid detection, eat rust, sniff  out metal
+**Motives & Tactics:** Avoid detection, eat rust, sniff out metal
 
 > **Difficulty:** 12 | **Thresholds:** 10/18 | **HP:** 5 | **Stress:** 2  
 > **ATK:** +1 | **Bite:** Melee | 2d6+4 phy

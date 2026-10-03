@@ -74,7 +74,9 @@ If you are already in a stance when you shift into a different stance, you autom
 
 The following section lists all martial stances by tier.
 
-TIER 1 ***Favored:*** Gain a bonus to damage rolls equal to a trait of your choice.
+##### TIER 1
+
+***Favored:*** Gain a bonus to damage rolls equal to a trait of your choice.
 
 ***Invigorating:*** On a successful attack, roll a **d4**. On a result of 4, gain a Focus.
 
@@ -82,7 +84,9 @@ TIER 1 ***Favored:*** Gain a bonus to damage rolls equal to a trait of your choi
 
 ***Reliable:*** Gain a +1 bonus to your attack rolls.
 
-TIER 2 ***Aggressive:*** Gain a −1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.
+##### TIER 2
+
+***Aggressive:*** Gain a −1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.
 
 ***Anchored:*** Gain a +2 bonus to your damage thresholds. While in this stance, you can’t be moved against your will.
 
@@ -90,7 +94,9 @@ TIER 2 ***Aggressive:*** Gain a −1 penalty to your Evasion. On a successful at
 
 ***Otherworldly:*** On a successful attack, you can deal physical or magic damage.
 
-TIER 3 ***Grappling:*** On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily *Restrain* the target or throw the target up to Close range.
+##### TIER 3
+
+***Grappling:*** On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily *Restrain* the target or throw the target up to Close range.
 
 ***Scary:*** On a successful attack, the target must mark a Stress.
 
@@ -98,7 +104,9 @@ TIER 3 ***Grappling:*** On a successful attack within Melee range, you can **spe
 
 ***Vigilant:*** When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your Evasion against the attack.
 
-TIER 4 ***Crushing:*** When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.
+##### TIER 4
+
+***Crushing:*** When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.
 
 ***Exacting:*** When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.
 

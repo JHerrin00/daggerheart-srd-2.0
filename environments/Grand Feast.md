@@ -11,7 +11,7 @@
 
 ***Loose Lips & Fast Friends - Passive:*** Everyone is here to have a good time. PCs have advantage on Presence Rolls to socialize with other revelers. *What is everyone celebrating? Where’s the party? Who’s footing the* *bill?*
 
-***The Evening’s Entertainment - Action:*** The host of the feast kicks off  the entertainment portion of the evening. Each PC can make an action roll to initiate a performance, competition, or other lighthearted diversion. A PC who succeeds becomes an *Honored* *Guest*. Until the feast ends, an *Honored Guest* can claim a gift from the host, then clear the condition. *What does the host want to see or hear more than anything else?* *What can they offer the PCs in return?*
+***The Evening’s Entertainment - Action:*** The host of the feast kicks off the entertainment portion of the evening. Each PC can make an action roll to initiate a performance, competition, or other lighthearted diversion. A PC who succeeds becomes an *Honored* *Guest*. Until the feast ends, an *Honored Guest* can claim a gift from the host, then clear the condition. *What does the host want to see or hear more than anything else?* *What can they offer the PCs in return?*
 
 ***“There’s Always That One…” - Action:*** **Spend a Fear** to *Trap* a PC in conversation with the most unpleasant person at the party until the PC succeeds on an action roll to extricate themself from this social black hole. While *Trapped*, a PC can’t make action rolls except to try to clear this condition. When a *Trapped* PC fails an action roll, they must mark a Stress. *What makes this dud so unpleasant? What’s something the PC cares* *about that the dud constantly diminishes or dismisses? What boring* *or awful thing can the dud not shut up about?*
 

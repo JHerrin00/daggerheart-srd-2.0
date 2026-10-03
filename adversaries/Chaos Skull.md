@@ -10,7 +10,7 @@
 
 ## FEATURES
 
-***Levitation - Passive:*** The Skull levitates several feet off  the ground and can’t be *Restrained*.
+***Levitation - Passive:*** The Skull levitates several feet off the ground and can’t be *Restrained*.
 
 ***Wards - Passive:*** The Skull is resistant to magic damage.
 

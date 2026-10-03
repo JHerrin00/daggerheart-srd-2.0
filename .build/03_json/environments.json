@@ -151,7 +151,7 @@
       {
         "name": "Crowd Closes In - Reaction",
         "question": "Where does the crowd's movement carry them? How do they feel about being alone but surrounded?",
-        "text": "When one of the PCs splits from the group, the crowds shift and cut them off  from the party.\n\nWhere does the crowd's movement carry them? How do they feel about being alone but surrounded?"
+        "text": "When one of the PCs splits from the group, the crowds shift and cut them off from the party.\n\nWhere does the crowd's movement carry them? How do they feel about being alone but surrounded?"
       }
     ],
     "impulses": "Buy low, and sell high, tempt and tantalize with wares from near and far",
@@ -229,7 +229,7 @@
       {
         "name": "Hallowed Ground - Passive",
         "question": "Who sanctified this place, and what happened to them? What holy relics can be found here?",
-        "text": "At the center of the graveyard is a seemingly undisturbed chapel. On a successful Instinct Roll, a PC can discover this structure is sanctified against the cemetery's denizens. While inside the chapel, the PCs have advantage on action rolls to fight or drive off  spirits and undead.\n\nWho sanctified this place, and what happened to them? What holy relics can be found here?"
+        "text": "At the center of the graveyard is a seemingly undisturbed chapel. On a successful Instinct Roll, a PC can discover this structure is sanctified against the cemetery's denizens. While inside the chapel, the PCs have advantage on action rolls to fight or drive off spirits and undead.\n\nWho sanctified this place, and what happened to them? What holy relics can be found here?"
       },
       {
         "name": "Misty Miasma - Action",
@@ -265,7 +265,7 @@
       {
         "name": "The Evening's Entertainment - Action",
         "question": "What does the host want to see or hear more than anything else? What can they offer the PCs in return?",
-        "text": "The host of the feast kicks off  the entertainment portion of the evening. Each PC can make an action roll to initiate a performance, competition, or other lighthearted diversion. A PC who succeeds becomes an _Honored_ _Guest_. Until the feast ends, an _Honored Guest_ can claim a gift from the host, then clear the condition.\n\nWhat does the host want to see or hear more than anything else? What can they offer the PCs in return?"
+        "text": "The host of the feast kicks off the entertainment portion of the evening. Each PC can make an action roll to initiate a performance, competition, or other lighthearted diversion. A PC who succeeds becomes an _Honored_ _Guest_. Until the feast ends, an _Honored Guest_ can claim a gift from the host, then clear the condition.\n\nWhat does the host want to see or hear more than anything else? What can they offer the PCs in return?"
       },
       {
         "name": "\"There's Always That One…\" - Action",
@@ -285,7 +285,7 @@
     "type": "Social"
   },
   {
-    "description": "The party must fend off  multiple waves of enemies long enough for an ally to complete an important objective.",
+    "description": "The party must fend off multiple waves of enemies long enough for an ally to complete an important objective.",
     "difficulty": "11",
     "feature": [
       {
@@ -332,7 +332,7 @@
       {
         "name": "\"Let the Games Begin!\" - Action",
         "question": "What skills or abilities does this competition test? What does the victor win? Why is failure not an option for the PCs or their rivals?",
-        "text": "One of the festival's signature events is a sporting competition or series of games. If one or more PCs throw their hat into the ring, introduce rival competitors for them to face off  against. To claim victory, the PCs must complete a Progress Countdown (5) to win events or score points before their rivals complete a Consequence Countdown (5).\n\nWhat skills or abilities does this competition test? What does the victor win? Why is failure not an option for the PCs or their rivals?"
+        "text": "One of the festival's signature events is a sporting competition or series of games. If one or more PCs throw their hat into the ring, introduce rival competitors for them to face off against. To claim victory, the PCs must complete a Progress Countdown (5) to win events or score points before their rivals complete a Consequence Countdown (5).\n\nWhat skills or abilities does this competition test? What does the victor win? Why is failure not an option for the PCs or their rivals?"
       },
       {
         "name": "Legendary Local - Action",
@@ -412,7 +412,7 @@
         "text": "At night, or when the party is alone in a back alley, you can **spend a Fear** to introduce a group of thieves who try to rob them. The thieves appear at Close range of a chosen PC and include a Jagged Knife Kneebreaker, as many Lackeys as there are PCs, and a Lieutenant. For a larger party, add a Hexer or Sniper.\n\nWhat details show the party that these people are desperate former adventurers?"
       }
     ],
-    "impulses": "Drive the desperate to certain doom, profit off  of ragged hope",
+    "impulses": "Drive the desperate to certain doom, profit off of ragged hope",
     "name": "Outpost Town",
     "potential_adversaries": "Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant",
     "tier": "1",
@@ -518,7 +518,7 @@
       {
         "name": "Blasphemous Might - Action",
         "question": "How does the enemy change in appearance? What fears do their blows bring to the surface?",
-        "text": "A portion of the ritual's power is diverted into a cult member to fight off  interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:\n\n- They gain advantage on all attacks.\n- They deal an extra **1d10** damage on a successful attack.\n- They gain the following feature: _Relentless (2) - Passive._ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.\n\nHow does the enemy change in appearance? What fears do their blows bring to the surface?"
+        "text": "A portion of the ritual's power is diverted into a cult member to fight off interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:\n\n- They gain advantage on all attacks.\n- They deal an extra **1d10** damage on a successful attack.\n- They gain the following feature: _Relentless (2) - Passive._ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.\n\nHow does the enemy change in appearance? What fears do their blows bring to the surface?"
       },
       {
         "name": "The Summoning - Reaction",
@@ -760,7 +760,7 @@
     "type": "Traversal"
   },
   {
-    "description": "The PCs gain passage to a far-off  destination by offering their labor in exchange.",
+    "description": "The PCs gain passage to a far-off destination by offering their labor in exchange.",
     "difficulty": "14",
     "feature": [
       {
@@ -1158,7 +1158,7 @@
       {
         "name": "Glitz & Glamor - Passive",
         "question": "What's so wondrous about the casino's trappings? Are they truly magical in nature or merely mundane wonders taken to an impossible extreme?",
-        "text": "The overwhelming spectacle of this place can entrance even the most jaded patron. While here, all PCs have disadvantage on reaction rolls caused by a staff  member or regular patron of the casino.\n\nWhat's so wondrous about the casino's trappings? Are they truly magical in nature or merely mundane wonders taken to an impossible extreme?"
+        "text": "The overwhelming spectacle of this place can entrance even the most jaded patron. While here, all PCs have disadvantage on reaction rolls caused by a staff member or regular patron of the casino.\n\nWhat's so wondrous about the casino's trappings? Are they truly magical in nature or merely mundane wonders taken to an impossible extreme?"
       },
       {
         "name": "Fortune Favors the Bold - Passive",
@@ -1243,7 +1243,7 @@
         "text": "**Spend a Fear** to open a fissure that belches out toxic gas at a point of your choice, creating a cloud that blankets everything within Far range. While inside the cloud, a PC must track their air supply with an Air Supply Countdown. Its starting value is equal to 3 + their tier, and it ticks down when they take an action. If a PC fails an action roll or rolls with Fear, you can use a GM move to tick down their countdown an additional time. If the roll is a failure with Fear, you can tick it down twice instead. Once the countdown ends, a PC must mark a Stress whenever they take an action within the gas until they escape the cloud.\n\nWhat signs do you see to indicate the presence of toxic gas? What taste lingers in the mouths of the PCs who inhale the gas?"
       }
     ],
-    "impulses": "Create panic all around, cut off  the exits, isolate, make them scramble for safety, split the party",
+    "impulses": "Create panic all around, cut off the exits, isolate, make them scramble for safety, split the party",
     "name": "Volcanic Eruption",
     "potential_adversaries": "Elemental Spark, Lava Elemental (Greater Earth Elemental), Volcanic Dragon",
     "tier": "3",

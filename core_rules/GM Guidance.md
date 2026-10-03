@@ -96,7 +96,7 @@ Shake it up or cut away when a scene has concluded, the table’s energy is flag
 
 Don’t get hung up on one right answer to a problem. If the players have a clever idea, make it work.
 
-Overplanning
+##### Overplanning
 
 Spend your prep time inventing situations instead of scripting scenes. If the players surprise you, take a break to think through your options.
 

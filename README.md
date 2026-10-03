@@ -13,10 +13,11 @@ A Markdown and JSON version of the Daggerheart System Reference Document 2.0 (20
 | `ancestry_rules/` | 1 (Mixed Ancestry) |
 | `armor/` | 69 |
 | `beastforms/` | 24 |
+| `campaign_frames/` | 1 (The Witherwild) |
 | `classes/` | 13 |
 | `communities/` | 15 |
 | `consumables/` | 120 |
-| `core_rules/` | 5 |
+| `core_rules/` | 9 |
 | `domains/` | 10 |
 | `environments/` | 47 |
 | `items/` | 120 |
@@ -38,6 +39,8 @@ The Markdown follows the PDF text. I have listed the places where it differs bel
 - Weapons, armor and beastforms carry a tier line to follow seansbox's format. Weapons also carry Primary or Secondary and Physical or Magical, for example `**_Tier 1_** _Primary_ _Physical_ _Weapon_`. Each value comes from the table the entry appears in. Again this was to mimic seansbox's excellent work.
 - Armor stats are a bulleted list.
 - Mixed Ancestry is in its own folder, `ancestry_rules/`, because it is a rules section and not one of the ancestries.
+- The Witherwild campaign frame is in its own folder, `campaign_frames/`, because it is setting material and not a rules section.
+- The optional weapons and armor in Supplemental Campaign Mechanics (Everyday Hero, Western and Monster Hunting equipment) stay as tables in `core_rules/Supplemental Campaign Mechanics.md`. They are not in `weapons/` or `armor/`, so the standard equipment lists stay as the SRD prints them.
 - The numbered roll options in Battle Box, Dragon Mother Mitera and Gobstalker are on separate lines for readability.
 
 **Names**
@@ -52,21 +55,11 @@ The Markdown follows the PDF text. I have listed the places where it differs bel
 
 - The Combat Wheelchair rules and its twelve wheelchairs are one file, `weapons/Combat Wheelchair.md`, with a table for each tier.
 
-**Left out**
-
-These parts of the SRD are not in the repository:
-
-- Using Adversaries (adversary stat block anatomy, example features, benchmarks and the list of adversaries by tier, pages 93 to 96).
-- Using Environments and Adapting Environments (pages 158 and 159).
-- Additional GM Guidance (page 183).
-- The Witherwild Campaign Frame (pages 184 to 189).
-- Supplemental Campaign Mechanics (pages 190 to 205).
-
 ## License & Legal
 
 This repository includes materials from the Daggerheart System Reference Document 2.0, © Critical Role, LLC. All rights reserved. The SRD was created by Darrington Press and is licensed under the [Darrington Press Community Gaming (DPCGL) License](https://darringtonpress.com/license/). The original document is available at [daggerheart.com](https://www.daggerheart.com/).
 
-This repository modifies the SRD. It converts the text to Markdown and JSON, corrects extraction errors, renames the Witch subclasses, consolidates the Combat Wheelchair tables into one file, and leaves out the parts listed under Changes from the SRD text. There are no previous modifications by others.
+This repository modifies the SRD. It converts the text to Markdown and JSON, corrects extraction errors, renames the Witch subclasses, and consolidates the Combat Wheelchair tables into one file. There are no previous modifications by others.
 
 Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is unofficial. It is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
 
