@@ -20,6 +20,9 @@ listed under Fixed.
 
 ### Changed
 
+- **Roll options on separate lines.** Supreme Demiurge Adonix, Demon Lord Berzug, Soul-Shattered
+  Mage and Deadly Dungeon now list their roll options on separate lines, like Battle Box, Dragon
+  Mother Mitera and Gobstalker.
 - The README no longer lists these sections as left out, and LICENSE.md no longer says the repo
   leaves out parts of the SRD.
 
