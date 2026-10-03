@@ -34,7 +34,7 @@ To get the most out of Daggerheart, we recommend players keep the following prin
 
 *For more information, see the Daggerheart Core Rulebook,* *pages 9 and 108.*
 
-*Core Gameplay Loop*
+## CORE GAMEPLAY LOOP
 
 The **core gameplay loop** is the procedure that drives every scene, both in and out of combat:
 
@@ -54,13 +54,13 @@ As the scene develops, the players find opportunities to take action—problems 
 
 The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
 
-The Spotlight
+## THE SPOTLIGHT
 
 The **spotlight** is a symbol that represents the table’s attention—and therefore the immediate focus of both the narrative and the game mechanics. Any time a character or player becomes the focus of a scene, they “are in the spotlight” or “have the spotlight.”
 
 The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an action roll or rolls with Fear, the mechanics prompt the GM to seize the spotlight and make a GM move.
 
-*Turn Order & Action Economy*
+## TURN ORDER & ACTION ECONOMY
 
 Daggerheart’s turns don’t follow a traditional, rigid format: there is no explicit initiative mechanic and characters don’t have a set number of actions they can take or things they can do before the spotlight passes to someone else. A player with the spotlight describes what their character does, and the spotlight swings to one of the following:
 

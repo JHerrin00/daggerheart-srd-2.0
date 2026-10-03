@@ -3,7 +3,7 @@
 ***Tier 2 Ranged***
 *A half-human, half-horse guardian who patrols the borders of idyllic lands uncorrupted by the touch of civilization.*
 
-**Motives & Tactics:** Live in harmony with nature, protect the wilderness, use mobility and distance to drive off  intruders
+**Motives & Tactics:** Live in harmony with nature, protect the wilderness, use mobility and distance to drive off intruders
 
 > **Difficulty:** 14 | **Thresholds:** 10/19 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Recurved Bow:** Far | 2d8+4 phy

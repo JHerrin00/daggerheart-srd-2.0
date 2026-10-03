@@ -70,9 +70,13 @@ Finally, describe your companion’s method of dealing damage (their standard at
 
 The following sections will run you through the basics of working with your companion.
 
-USING SPELLCAST ROLLS, HOPE, AND EXPERIENCES Make a Spellcast Roll to connect with your companion and command them to take action. Spend a Hope to add an applicable Companion Experience to the roll. On a success with Hope, if your next action builds on their success, you gain advantage on the roll.
+##### USING SPELLCAST ROLLS, HOPE, AND EXPERIENCES
 
-ATTACKING WITH YOUR COMPANION When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their damage roll uses your Proficiency and their damage die.
+Make a Spellcast Roll to connect with your companion and command them to take action. Spend a Hope to add an applicable Companion Experience to the roll. On a success with Hope, if your next action builds on their success, you gain advantage on the roll.
+
+##### ATTACKING WITH YOUR COMPANION
+
+When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their damage roll uses your Proficiency and their damage die.
 
 ##### TAKING DAMAGE AS STRESS
 

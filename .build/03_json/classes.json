@@ -151,45 +151,6 @@
       },
       {
         "question": "What affectionate nickname have you given me?"
-      },
-      {
-        "question": "Creature Category: Each category's name describes the common role or behavior of creatures in that category (such as Agile Scout). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel)."
-      },
-      {
-        "question": "Character Trait: While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your Agility. When this form drops, you lose this bonus."
-      },
-      {
-        "question": "Attack Rolls: When you make an attack while transformed, you use the creature's listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency."
-      },
-      {
-        "question": "Evasion: While transformed, you add the creature's"
-      },
-      {
-        "question": "Advantages: Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities."
-      },
-      {
-        "question": "Features: Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they're also fragile, making you more likely to drop out of Beastform."
-      },
-      {
-        "question": "A +6 bonus to damage rolls"
-      },
-      {
-        "question": "A +1 bonus to the trait used by this form"
-      },
-      {
-        "question": "A +2 bonus to Evasion"
-      },
-      {
-        "question": "A +9 bonus to damage rolls"
-      },
-      {
-        "question": "A +2 bonus to the trait used by this form"
-      },
-      {
-        "question": "A +3 bonus to Evasion"
-      },
-      {
-        "question": "Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)"
       }
     ],
     "description": "Becoming a druid is more than an occupation; it's a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.",
@@ -203,7 +164,7 @@
       },
       {
         "name": "Wildtouch",
-        "text": "**** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire— at will."
+        "text": "You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire— at will."
       }
     ],
     "hope_feature_name": "Evolution",
@@ -280,36 +241,6 @@
       },
       {
         "question": "What threat have you asked me to watch for, and why are you worried about it?"
-      },
-      {
-        "question": "When your companion would take any amount of damage, they mark a Stress. When they mark their last Stress, they drop out of the scene (by hiding, fleeing, or a similar action). They remain unavailable until the start of your next long rest, where they return with 1 Stress cleared."
-      },
-      {
-        "question": "When you choose a downtime move that clears Stress on yourself, your companion clears an equal number of Stress."
-      },
-      {
-        "question": "Intelligent: Your companion gains a permanent +1 bonus to a Companion Experience of your choice."
-      },
-      {
-        "question": "Light in the Dark: Use this as an additional Hope slot your character can mark."
-      },
-      {
-        "question": "Creature Comfort: Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress."
-      },
-      {
-        "question": "Armored: When your companion takes damage, you can mark one of your Armor Slots instead of marking one of their Stress."
-      },
-      {
-        "question": "Vicious: Increase your companion's damage dice or range by one step (d6 to d8, Close to Far, etc.)."
-      },
-      {
-        "question": "Resilient: Your companion gains an additional Stress slot."
-      },
-      {
-        "question": "Bonded: When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of d6s equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene."
-      },
-      {
-        "question": "Aware: Your companion gains a permanent +2 bonus to their Evasion."
       }
     ],
     "description": "Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they've forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.",

@@ -15,4 +15,4 @@
 
 ***Sticky Fingers - Action:*** A thief tries to steal something from a PC. The PC must succeed on an Instinct Roll to notice the thief or lose an item of the GM’s choice as the thief escapes to a Close distance. To retrieve the stolen item, the PCs must complete a Progress Countdown (6) to chase down the thief before the thief completes a Consequence Countdown (4) and escapes to their hideout. *What drove this person to pickpocketing? Where is the thief’s hideout* *and how has it avoided notice?*
 
-***Crowd Closes In - Reaction:*** When one of the PCs splits from the group, the crowds shift and cut them off  from the party. *Where does the crowd’s movement carry them? How do they feel* *about being alone but surrounded?*
+***Crowd Closes In - Reaction:*** When one of the PCs splits from the group, the crowds shift and cut them off from the party. *Where does the crowd’s movement carry them? How do they feel* *about being alone but surrounded?*

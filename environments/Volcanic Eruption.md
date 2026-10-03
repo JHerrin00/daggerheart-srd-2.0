@@ -3,7 +3,7 @@
 ***Tier 3 Event***
 *An explosion of heat and molten rock that leaves behind only charred desolation.*
 
-**Impulses:** Create panic all around, cut off  the exits, isolate, make them scramble for safety, split the party
+**Impulses:** Create panic all around, cut off the exits, isolate, make them scramble for safety, split the party
 
 > **Difficulty:** 16 | **Potential Adversaries:** Elemental Spark, Lava Elemental (Greater Earth Elemental), Volcanic Dragon
 
