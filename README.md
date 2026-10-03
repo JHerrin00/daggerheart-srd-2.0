@@ -41,7 +41,7 @@ The Markdown follows the PDF text. I have listed the places where it differs bel
 - Mixed Ancestry is in its own folder, `ancestry_rules/`, because it is a rules section and not one of the ancestries.
 - The Witherwild campaign frame is in its own folder, `campaign_frames/`, because it is setting material and not a rules section.
 - The optional weapons and armor in Supplemental Campaign Mechanics (Everyday Hero, Western and Monster Hunting equipment) stay as tables in `core_rules/Supplemental Campaign Mechanics.md`. They are not in `weapons/` or `armor/`, so the standard equipment lists stay as the SRD prints them.
-- The numbered roll options in Battle Box, Dragon Mother Mitera and Gobstalker are on separate lines for readability.
+- The roll options in Battle Box, Dragon Mother Mitera, Gobstalker, Supreme Demiurge Adonix, Demon Lord Berzug, Soul-Shattered Mage and Deadly Dungeon are on separate lines for readability.
 
 **Names**
 

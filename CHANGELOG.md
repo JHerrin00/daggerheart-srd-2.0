@@ -2,8 +2,7 @@
 
 ## [1.0.2] - 2026-10-03
 
-The repo now covers the whole SRD 2.0 rules text, and it is rebuilt directly from the PDF with
-the 1.0.1 corrections made by the build itself. The rebuild also found and fixed the errors
+The repo now covers the whole SRD 2.0 rules text. The script rebuild also found and fixed the errors
 listed under Fixed.
 
 ### Added
@@ -14,16 +13,10 @@ listed under Fixed.
 - **Using Environments** (`core_rules/Using Environments.md`, pages 158 and 159): the parts of an
   environment stat block, adapting environments to another tier, the benchmarks by tier, and the
   list of environments by tier.
-- **Additional GM Guidance** (`core_rules/Additional GM Guidance.md`, pages 183 and 184): story beats,
-  combat encounters, session rewards, the table of random combat objectives, downtime and projects,
-  and the introduction to campaign frames.
-- **The Witherwild campaign frame** (`campaign_frames/The Witherwild.md`, pages 184 to 189), in a new
-  `campaign_frames/` folder with `campaign_frames.json`.
-- **Supplemental Campaign Mechanics** (`core_rules/Supplemental Campaign Mechanics.md`, pages 190
-  to 205): faction tracking, Everyday Hero starting equipment, feasts, and the grimdark,
-  tech-based, western, colossal adversary, floating magic school, fairy tale, monster hunting and
-  hex crawl campaign options, with all 17 of their tables.
-- `core_rules.json` has a record for each of the four new rules files.
+- **Additional GM Guidance** (`core_rules/Additional GM Guidance.md`, pages 183 and 184): story beats, combat encounters, session rewards, the table of random combat objectives, downtime and projects, and the introduction to campaign frames.
+- **The Witherwild campaign frame** (`campaign_frames/The Witherwild.md`, pages 184 to 189), in a new `campaign_frames/` folder with `campaign_frames.json`.
+- **Supplemental Campaign Mechanics** (`core_rules/Supplemental Campaign Mechanics.md`, pages 190 to 205): faction tracking, Everyday Hero starting equipment, feasts, and the grimdark, tech-based, western, colossal adversary, floating magic school, fairy tale, monster hunting and hex crawl campaign options, with all 17 of their tables.
+- `core_rules.json` has a record for the four new rules files.
 
 ### Changed
 
@@ -33,7 +26,7 @@ listed under Fixed.
 ### Fixed
 
 - **Double spaces after "ff".** 21 places in 18 files had two spaces after a word ending in
-  "ff", left by the PDF's ligature glyphs: "Bite off  heads", "staff  member", "sniff  out" and
+  "ff", left by the PDF conversion.  "Bite off  heads", "staff  member", "sniff  out" and
   others in adversaries and environments, with the same text in `adversaries.json` and
   `environments.json`.
 - **Class connection questions.** In `classes.json`, the Druid and Ranger `connection` lists
@@ -44,9 +37,9 @@ listed under Fixed.
   Action Economy in Core Mechanics are now headings like the other sections in their font, as is
   Overplanning in GM Guidance. In Brawler and Martial Artist, the TIER 1 to TIER 4 stance labels
   are now headings. In Ranger and Wayfinder, Using Spellcast Rolls, Hope, and Experiences and
-  Attacking with Your Companion are now headings, like the other companion sections.
+  Attacking with Your Companion are now headings.
 - **List spacing in four domain cards.** Blighting Strike, Codex-touched, Death Grip and Force of
-  Nature had a blank line between their list items. They now match the other domain cards.
+  Nature had a blank line between their list items. 
 - **Mixed Ancestry in `ancestry_rules.json`.** The text under each numbered step is now indented
   to match the Markdown.
 
