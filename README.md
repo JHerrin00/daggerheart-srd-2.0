@@ -20,6 +20,7 @@ A Markdown and JSON version of the Daggerheart System Reference Document 2.0 (20
 | `core_rules/` | 17 |
 | `domains/` | 10 |
 | `environments/` | 47 |
+| `fantasy_statblocks/` | 311 Obsidian notes (264 adversaries, 47 environments) |
 | `items/` | 120 |
 | `subclasses/` | 26 |
 | `transformations/` | 6 |
@@ -29,6 +30,13 @@ A Markdown and JSON version of the Daggerheart System Reference Document 2.0 (20
 
 - Class records have no `suggested_armor`, `suggested_primary`, `suggested_secondary` or `suggested_traits` fields, because the SRD 2.0 class pages do not list them.
 - Items and consumables each come from two loot tables (the Core Set and the Hope & Fear Expansion Set), both numbered 1 to 60, so roll numbers repeat within each category.
+
+## Fantasy Statblocks
+
+`fantasy_statblocks/` holds every adversary and environment as an Obsidian note for the [Fantasy Statblocks](https://github.com/Obsidian-TTRPG-Community/fantasy-statblocks) plugin. The notes use the plugin's built-in Daggerheart Adversary and Daggerheart Environment layouts, which need version 4.10.0 or newer.
+
+- Copy the folder into your vault. Each note will render its own stat block.
+- To use a creature in another note with `monster: "Acid Burrower"`, turn on frontmatter parsing in the plugin's settings and add the folder as a bestiary folder.
 
 ## Changes from the SRD text
 
@@ -59,7 +67,7 @@ The Markdown follows the PDF text. I have listed the places where it differs bel
 
 This repository includes materials from the Daggerheart System Reference Document 2.0, © Critical Role, LLC. All rights reserved. The SRD was created by Darrington Press and is licensed under the [Darrington Press Community Gaming (DPCGL) License](https://darringtonpress.com/license/). The original document is available at [daggerheart.com](https://www.daggerheart.com/).
 
-This repository modifies the SRD. It converts the text to Markdown and JSON, corrects extraction errors, renames the Witch subclasses, and consolidates the Combat Wheelchair tables into one file. There are no previous modifications by others.
+This repository modifies the SRD. It converts the text to Markdown, JSON and Fantasy Statblocks notes, corrects extraction errors, renames the Witch subclasses, and consolidates the Combat Wheelchair tables into one file. There are no previous modifications by others.
 
 Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is unofficial. It is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
 

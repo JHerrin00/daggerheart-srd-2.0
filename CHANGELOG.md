@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0] - 2026-10-04
+
+Created a folder with every adversary and environment as an Obsidian note for the Fantasy Statblocks plugin.
+
+### Added
+
+- **Fantasy Statblocks notes** (`fantasy_statblocks/`): 264 adversaries and 47 environments,
+  sorted into `Tier 1` to `Tier 4` folders. Each note uses the plugin's built-in Daggerheart
+  Adversary or Daggerheart Environment layout (version 4.10.0 or newer), with the stat block in the
+  frontmatter for the bestiary and again in a `statblock` code block so the note renders on its own.
+- The notes are written from `adversaries.json` and `environments.json`, with no changes to the
+  text. Environment GM questions are in italics, as in the Markdown.
+
 ## [1.1.0] - 2026-10-03
 
 Adds the rules text that opens each player chapter. Earlier releases had every class, ancestry,
